@@ -16,3 +16,5 @@ phrase:
   pull:
     targets:
       - file: "./locales/en-US.json"
+        params:
+          locale_id: en-US # the locale must exist remotely
