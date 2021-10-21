@@ -12,9 +12,9 @@ phrase:
         params:
           update_translations: false
 
-          locale_id: en-US # the locale must exist remotely
+          locale_id: 2426d40249f84bdb32a80d546f3851ca # the locale must exist remotely
   pull:
     targets:
       - file: "./locales/en-US.json"
         params:
-          locale_id: en-US # the locale must exist remotely
+          locale_id: 2426d40249f84bdb32a80d546f3851ca # the locale must exist remotely
