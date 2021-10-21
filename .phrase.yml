@@ -13,3 +13,6 @@ phrase:
           update_translations: false
 
           locale_id: en-US # the locale must exist remotely
+  pull:
+    targets:
+      - file: "./locales/en-US.json"
