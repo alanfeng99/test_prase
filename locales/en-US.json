@@ -16,5 +16,6 @@
   "layouts.application.preview": "Preview",
   "layouts.application.profile": "Profile",
   "layouts.application.sign_in": "Login",
-  "layouts.application.sign_up": "Register"
+  "layouts.application.sign_up": "Register",
+  "test": "Hello world Phrase"
 }
