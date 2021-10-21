@@ -1,21 +1,30 @@
 {
-  "general.back": "Back",
-  "general.cancel": "Cancel",
-  "general.confirm": "Are you sure?",
-  "general.destroy": "Delete",
-  "general.edit": "Edit",
-  "general.new": "New",
+  "from": {
+    "phrase": "from phrase"
+  },
+  "general": {
+    "back": "Back",
+    "cancel": "Cancel",
+    "confirm": "Are you sure?",
+    "destroy": "Delete",
+    "edit": "Edit",
+    "new": "New"
+  },
   "hello": "Hello world",
-  "layouts.application.about": "About",
-  "layouts.application.account": "Account",
-  "layouts.application.app_store": "App Store",
-  "layouts.application.imprint": "Imprint",
-  "layouts.application.logout": "Logout",
-  "layouts.application.my_mails": "My Mails",
-  "layouts.application.press": "Press",
-  "layouts.application.preview": "Preview",
-  "layouts.application.profile": "Profile",
-  "layouts.application.sign_in": "Login",
-  "layouts.application.sign_up": "Register",
+  "layouts": {
+    "application": {
+      "about": "About",
+      "account": "Account",
+      "app_store": "App Store",
+      "imprint": "Imprint",
+      "logout": "Logout",
+      "my_mails": "My Mails",
+      "press": "Press",
+      "preview": "Preview",
+      "profile": "Profile",
+      "sign_in": "Login",
+      "sign_up": "Register"
+    }
+  },
   "test": "Hello world Phrase"
 }
