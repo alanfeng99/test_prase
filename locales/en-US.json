@@ -713,4 +713,8 @@
   "verify_phone_resend": "Send again",
   "verify_phone_title": "Verification code",
   "welcome_subtitle": "Learn a language like making new friends"
+  "test": "Hello world Phrase3",
+  "test2": "test hook 2",
+  "test3": "test hook 3",
+  "test4": "test hook 4"
 }

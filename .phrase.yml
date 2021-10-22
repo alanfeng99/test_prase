@@ -1,18 +1,15 @@
 phrase:
-  access_token: a6b21a85deb34b099874a446f36046f7ad323a650974ce67960f45b16a9493c9
-
   project_id: 6f8f71a09a8d1952a7b5a70ef1e3a3cc
-
   file_format: nested_json
 
   push:
     sources:
       - file: ./locales/en-US.json
-
         params:
           update_translations: false
-
-          locale_id: en-US # the locale must exist remotely
+          locale_id: 2426d40249f84bdb32a80d546f3851ca # the locale must exist remotely
   pull:
     targets:
-      - file: "./locales/en-US.json"
+      - file: ./locales/en-US.json
+        params:
+          locale_id: 2426d40249f84bdb32a80d546f3851ca # the locale must exist remotely
