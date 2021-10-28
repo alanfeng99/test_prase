@@ -1,0 +1,6 @@
+"teacher.identity.title" = "尚未驗證身分";
+"teacher.identity.body" = "實名制驗證身分才能領取你的AT幣，同時盡到洗錢防制的義務";
+"teacher.identity.action" = "進行驗證";
+"teacher.identity.retry.title" = "需重新驗證身分";
+"teacher.identity.retry.body" = "未通過實名制身分驗證，請重新驗證以提領您的AT幣";
+"teacher.identity.retry.action" = "重新驗證";

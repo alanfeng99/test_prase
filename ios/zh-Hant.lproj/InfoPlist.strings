@@ -1,0 +1,4 @@
+"UILaunchStoryboardName" = "LaunchScreen_zh";
+"NSPhotoLibraryAddUsageDescription" = "請允許存取你的相片，以選擇您圖庫內的相片或影片。";
+"NSPhotoLibraryUsageDescription" = "請允許存取你的相片，以選擇您圖庫內的相片或影片。";
+"NSCameraUsageDescription" = "需要你的相機權限，以拍攝照片。";

@@ -1,0 +1,17 @@
+"budget.above" = "%@ 以上";
+"budget.below" = "%@ 以下";
+"filter.auxiliary" = "輔助語言";
+"filter.budget" = "預算區間";
+"filter.country" = "國家";
+"filter.option.none" = "無";
+"filter.purpose" = "學習需求";
+"filter.tutors" = "%@家教";
+"lesson.duration" = "50分鐘";
+"reviews" = "%@ 個評論";
+"sort.comments.first" = "多評價數優先";
+"sort.complete.count.first" = "多完課數優先";
+"sort.current" = "目前排序";
+"sort.low.price.first" = "低價優先";
+"sort.new.tutors.first" = "新教師優先";
+"sort.outstanding.tutors.first" = "優質教師優先";
+"sort.recommend" = "即時推薦";

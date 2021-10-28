@@ -1,0 +1,16 @@
+"button.check" = "查看";
+"lesson.refund.content" = "請至課程明細中確認退課唷!";
+"lesson.refund.title" = "退課確認";
+"new.recommend.student.title" = "【點我聯繫新學生】";
+"new.recommend.student.message" = "系統已媒合一位新學生給您，請儘快聯繫！";
+"new.recommend.mentee.title" = "【點我聯繫積極教師】";
+"new.recommend.mentee.message" = "系統已媒合一位積極教師給您，請盡快聯繫!";
+"recommended.student.lose.chance.title" = "學員已被其他老師聯繫";
+"recommended.student.lose.chance.message" = "不好意思，有個學員已被其他老師聯繫走囉，下次記得快點回來聯繫學員喔！😃";
+"product.to.cart.by.student" = "現在把您加入購物車\n快把握機會關心學生吧";
+"request.accepted" = "已接受";
+"request.expired.message.to.student" = "已過期";
+"request.expired.message.to.teacher" = "已過期，此紀錄將影響您的教師排名";
+"request.initialization" = "請求中";
+"request.rejected.message.to.student" = "已拒絕";
+"request.rejected.message.to.teacher" = "已拒絕，此紀錄將影響您教師的排名";

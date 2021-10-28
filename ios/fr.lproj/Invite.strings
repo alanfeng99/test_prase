@@ -1,0 +1,9 @@
+"content" = "Offrez un cours d'essai de 25 minutes avec %@ à l'un de vos proches. Si votre proche achète un minimum de 5 leçons et suit son premier cours, vous recevrez alors un cours GRATUIT de 50 minutes avec %@ ! ";
+"mail.button.title" = "Envoyer une invitation";
+"mail.placeholder" = "Entrer l'adresse email";
+"mail.success.message" = "L'invitation a envoyée avec succès";
+"mail.title" = "Inviter des amis";
+"share.link.button.title" = "Copier le lien";
+"share.link.copied" = "Copié";
+"share.link.title" = "Partagez le lien";
+"title" = "Obtenir un cours gratuit de 50 minutes avec %@";

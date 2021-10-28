@@ -1,0 +1,4 @@
+"UILaunchStoryboardName" = "LaunchScreen_jp";
+"NSPhotoLibraryAddUsageDescription" = "Need access to the photo so that you can select photos and video from your library.";
+"NSCameraUsageDescription" = "Need access to the camera so that you can start taking ";
+"NSPhotoLibraryUsageDescription" = "Need access to the photo so that you can select photos and video from your library.";

@@ -1,0 +1,17 @@
+"budget.above" = "más de %@";
+"budget.below" = "menos de %@";
+"filter.auxiliary" = "También habla";
+"filter.budget" = "Presupuesto";
+"filter.country" = "Nacionalidad";
+"filter.option.none" = "Ningún";
+"filter.purpose" = "Especialidad";
+"filter.tutors" = "Profesores de %@";
+"lesson.duration" = " 50 minutos";
+"reviews" = "%@ comentarios";
+"sort.comments.first" = "Opiniones";
+"sort.complete.count.first" = "Clases";
+"sort.current" = "Ordenado por";
+"sort.low.price.first" = "Precio";
+"sort.new.tutors.first" = "Recientes";
+"sort.outstanding.tutors.first" = "Puntuación";
+"sort.recommend" = "Recomendados";

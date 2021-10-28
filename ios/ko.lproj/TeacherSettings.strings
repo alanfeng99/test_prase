@@ -1,0 +1,5 @@
+"teacher.feature" = "선생님 전용 메뉴";
+"course.schedule.title" = "스케줄";
+"course.schedule.subtitle" = "나의 수업 스케줄 설정하기";
+"course.schedule.action" = "스케줄 조정";
+"course.schedule.recurrence" = "고정 시간";

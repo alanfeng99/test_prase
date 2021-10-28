@@ -1,0 +1,9 @@
+"content" = "Give a 25-mins FREE Trial Lesson from %@ to your friends. When your friend purchases 5 lessons or more, and successfully completes the 1st lesson, you will receive a FREE 50-min lesson from %@ as a reward. Refer a friend to receive a free lesson from %@ with %@ learning need today! ";
+"mail.button.title" = "Send Invitation";
+"mail.placeholder" = "Enter email address";
+"mail.success.message" = "Send Invitation Success.";
+"mail.title" = "Invite Friends";
+"share.link.button.title" = "Copy link";
+"share.link.copied" = "The Code is Copied.";
+"share.link.title" = "Share Link";
+"title" = "Get a FREE 50-mins lesson from %@";

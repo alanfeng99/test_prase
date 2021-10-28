@@ -1,0 +1,5 @@
+"teacher.feature" = "Fonctions pour les enseignants";
+"course.schedule.title" = "Horaire des cours";
+"course.schedule.subtitle" = "Organisez votre emploi du temps";
+"course.schedule.action" = "Modifiez l'heure";
+"course.schedule.recurrence" = "Horaire fixe";

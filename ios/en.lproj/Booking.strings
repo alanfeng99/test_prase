@@ -1,0 +1,12 @@
+"asking.subtitle" = "Teacher has to reply the request before %@. The session will not be scheduled successfully until the teacher has confirmed it.";
+"asking.title" = "Request sent";
+"course.due.date.title" = "Exp. Date: ";
+"expire.request.extension" = "Request";
+"expire.title" = "This package has expired, please contact your teacher to extend the lesson(s) for you.";
+"info.card.back" = "Prev";
+"info.card.confirm" = "Schedule";
+"time.status.accepted" = "You have a lesson";
+"time.status.initialization" = "You’re requesting a lesson";
+"timezone.display" = "* All times listed are in your local timezone: %@(GMT%@:00)";
+"booking.not.scheduled" = "Unbooked: %@";
+"booking.expire.date" = "Expiration date: %@";

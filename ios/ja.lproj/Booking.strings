@@ -1,0 +1,12 @@
+"asking.subtitle" = "講師は %@ の前に確認しなければなりません。確認した後、このレッスンの予約が成立します。";
+"asking.title" = "予約のリクエストを送りました。";
+"course.due.date.title" = "レッスンの期限：";
+"expire.request.extension" = "リクエスト";
+"expire.title" = "このパッケージは期限が切れました。講師に期限延長のリクエストを送ってください。";
+"info.card.back" = "戻る";
+"info.card.confirm" = "予約する";
+"time.status.accepted" = "レッスンがある";
+"time.status.initialization" = "リクエストがある";
+"timezone.display" = "* ここのタイムゾーンは %@(GMT%@:00)";
+"booking.not.scheduled" = "未予約 : %@";
+"booking.expire.date" = "有効期限 : %@";

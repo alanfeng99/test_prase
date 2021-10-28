@@ -1,0 +1,5 @@
+"alert.leave" = "떠나다";
+"alert.confirm" = "확인";
+"payment.failed.message" = "결제를 실패하셨습니다. 다른 결제 수단을 사용하시거나 문의 부탁드립니다.";
+"alert.change.not.saved" = "변경 사항이 저장되지 않았습니다. 그래도 나가시겠습니까?";
+"alert.change.not.saved.cancel" = "계속 수정하기";

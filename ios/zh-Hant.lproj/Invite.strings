@@ -1,0 +1,9 @@
+"content" = "贈送朋友 1 堂 %@ 老師的25分鐘體驗課，朋友購買五堂以上正式課程，並結束第一堂正式課後，您就能獲得 1 堂 %@ 老師的50分鐘正式課囉！推薦 %@ 老師給想學%@的好友吧！";
+"mail.button.title" = "發送邀請";
+"mail.placeholder" = "輸入電子郵件地址";
+"mail.success.message" = "成功發送邀請";
+"mail.title" = "發送給指定信箱";
+"share.link.button.title" = "複製連結";
+"share.link.copied" = "已複製";
+"share.link.title" = "分享連結";
+"title" = "獲得 1 堂 %@ 老師的 50 分鐘正式課";

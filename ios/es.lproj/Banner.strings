@@ -1,0 +1,6 @@
+"teacher.identity.title" = "Identidad aún no verificada";
+"teacher.identity.body" = "Verifique su identidad con su nombre real para recibir sus monedas AT, esto también es conforme a la normativa contra el blanqueo de capitales.";
+"teacher.identity.action" = "Verificar";
+"teacher.identity.retry.title" = "Se necesita volver a verificar la identidad";
+"teacher.identity.retry.body" = "No se puede pasar la verificación de identificación, vuelve a verificar para retirar tus créditos AT";
+"teacher.identity.retry.action" = "Volver a verificar";

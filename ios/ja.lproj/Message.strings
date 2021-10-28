@@ -1,0 +1,15 @@
+"filter.group.appointmentAccepted" = "予約済";
+"filter.group.canAttendStoryContest" = "コンテスト参加できる";
+"filter.group.groupLesson" = "グループレッスン";
+"filter.group.privateLesson" = "正式レッスン";
+"filter.group.privateMember" = "チームメンバー";
+"filter.group.recommend" = "マッチング";
+"filter.group.trailMember" = "新しい講師";
+"filter.group.trialLesson" = "体験レッスン";
+"filter.role.all" = "全て";
+"filter.role.member" = "講師チーム";
+"filter.role.student" = "私の生徒";
+"filter.role.teacher" = "私の講師";
+"filter.title" = "フィルタ";
+"input.placeholder" = "メッセージを入力する";
+"search.placeholder" = "名前で探す";

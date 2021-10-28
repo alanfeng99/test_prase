@@ -1,0 +1,6 @@
+"reason.other.placeholder" = "5文字以上入力してください。";
+"state.title" = "状態";
+"support.message" = "カスタマーサービスにスクリーンショットをアップロードしてください。";
+"support.zoom.highlight.text" = "テストURL";
+"support.zoom.title" = "Zoomの障害が発生していた時、このテストURLをクリックしてください。";
+"support.zoom.url" = "https://intercom.help/amazingtalker/en/articles/3022725";

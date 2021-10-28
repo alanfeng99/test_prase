@@ -1,0 +1,16 @@
+"button.check" = "Check";
+"lesson.refund.content" = "Please go to Lesson Detail to confirm the refund!";
+"lesson.refund.title" = "Confirmation of lesson refund";
+"new.recommend.student.title" = "【Click me to contact the new student】";
+"new.recommend.student.message" = "You’ve got a new student match, hurry up!";
+"new.recommend.mentee.title" = "【Click and Contact active teacher】";
+"new.recommend.mentee.message" = "We have matched an active teacher to you! Please contact him/her ASAP!";
+"recommended.student.lose.chance.title" = "The student has already been contacted by other tutors.";
+"recommended.student.lose.chance.message" = "Sorry, students have been contacted by other teachers, please try sooner next time. 😃";
+"product.to.cart.by.student" = "The student has added you to shopping cart";
+"request.accepted" = "Accepted";
+"request.expired.message.to.student" = "Expired.";
+"request.expired.message.to.teacher" = "Expired. This record will affect your ranking on teacher's list.";
+"request.initialization" = "Asking";
+"request.rejected.message.to.student" = "Rejected.";
+"request.rejected.message.to.teacher" = "Rejected. This record will affect your teacher’s ranking.";

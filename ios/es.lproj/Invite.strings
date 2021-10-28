@@ -1,0 +1,9 @@
+"content" = "Regalar a su amigo una clase de prueba de 25 minutos de %@. Si su amigo compra 5 clases formales y completa 1 clase después de terminar la clase de prueba, recibirá una clase formal de %@ gratis. Recomiende %@ a su amigo quien quiere aprender %@.";
+"mail.button.title" = "Enviar invitación";
+"mail.placeholder" = "Poner el email";
+"mail.success.message" = "Invitación enviada";
+"mail.title" = "Enviarle al email asignado";
+"share.link.button.title" = "Copiar el enlace";
+"share.link.copied" = "Copiado";
+"share.link.title" = "Enlace (Link)";
+"title" = "Recibir una clase formal de 50 minutos de %@ gratis";

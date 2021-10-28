@@ -1,0 +1,16 @@
+"button.check" = "チェック";
+"lesson.refund.content" = "レッスン詳細からレッスンのキャンセルを行ってください";
+"lesson.refund.title" = "キャンセル確認";
+"new.recommend.student.title" = "【新しい生徒に連絡する】";
+"new.recommend.student.message" = "新しい生徒をマッチングしましたので、早めに連絡をしてください";
+"new.recommend.mentee.title" = "【Click and Contact active teacher】";
+"new.recommend.mentee.message" = "We have matched an active teacher to you! Please contact him/her ASAP!";
+"recommended.student.lose.chance.title" = "この生徒は、他の講師によって連絡されました。";
+"recommended.student.lose.chance.message" = "申し訳ありませんが、この生徒はすでに他の講師と連絡をしています。次回はできるだけお早めに連絡をしてください";
+"product.to.cart.by.student" = "レッスンに興味を持っている生徒がいます\n早めに生徒に連絡をしてみましょう";
+"request.accepted" = "受取済み";
+"request.expired.message.to.student" = "期限が切れています";
+"request.expired.message.to.teacher" = "期限が切れています。これは講師の表示順位にも影響します";
+"request.initialization" = "リクエスト中";
+"request.rejected.message.to.student" = "キャンセルされました";
+"request.rejected.message.to.teacher" = "キャンセルされました。これは講師の表示順位にも影響します";

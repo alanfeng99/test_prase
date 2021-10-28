@@ -1,0 +1,12 @@
+"asking.subtitle" = "El profesor responde antes de %@<br> si no responde en tiempo, la petición se eliminará.";
+"asking.title" = "Solicitud Reserva enviada";
+"course.due.date.title" = "fecha de vencimiento:";
+"expire.request.extension" = "Pedir extensión del paquete de clases";
+"expire.title" = "Este paquete de clases ha vencido, contacte con su profesor para extender el paquete";
+"info.card.back" = "Paso anterior";
+"info.card.confirm" = "Confirmar la reserva";
+"time.status.accepted" = "Tienes clases";
+"time.status.initialization" = "Tienes reservas solicitadas";
+"timezone.display" = "* El horario se muestra en tu zona horaria: %@(GMT%@:00)";
+"booking.not.scheduled" = "Sin Reservar: %@";
+"booking.expire.date" = "Fecha de Expiración: %@";

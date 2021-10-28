@@ -1,0 +1,14 @@
+"coursePackage.state.complete" = "완료됨:%@";
+"coursePackage.state.incomplete" = "미완료 (%@)";
+"coursePackage.state.refund" = "환불됨 (%@)";
+"coursePackage.state.incomplete.desc" = "아직 예약되지 않음";
+"coursePackage.state.incoming.desc" = "%@ 번째 수업 :";
+"coursePackage.state.end" = "중지됨";
+"coursePackage.state.expired" = "만료됨";
+"coursePackage.state.onGoing" = "진행 중";
+"chatUserInfo.coursePackage" = "수업 패키지 목록";
+"student.list.filter.all" = "전체 학생";
+"student.list.scheduled" = "예약됨";
+"student.list.not.scheduled" = "예약되지 않음";
+"student.list.not.repurchased" = "정규 수업이 갱신되지 않음";
+"student.list.title" = "학생 리스트";

@@ -1,0 +1,15 @@
+"filter.group.appointmentAccepted" = "已完成預約";
+"filter.group.canAttendStoryContest" = "達成競賽資格";
+"filter.group.groupLesson" = "小班制";
+"filter.group.privateLesson" = "正式課";
+"filter.group.privateMember" = "團隊成員";
+"filter.group.recommend" = "推薦媒合";
+"filter.group.trailMember" = "媒合新教師";
+"filter.group.trialLesson" = "體驗課";
+"filter.role.all" = "全部";
+"filter.role.member" = "我的成員";
+"filter.role.student" = "我的學生";
+"filter.role.teacher" = "我的老師";
+"filter.title" = "篩選";
+"input.placeholder" = "說些什麼...";
+"search.placeholder" = "搜尋名字";

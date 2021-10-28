@@ -1,0 +1,9 @@
+"content" = "お友達に %@ 講師の体験レッスン（25 分）を1回分プレゼントし、お友達が実際に受講すると紹介者は1回分の %@ 講師の正式レッスン（50 分）を獲得できます。ぜひ %@ を学びたいお友達に %@ を紹介してあげましょう！";
+"mail.button.title" = "招待メールを送る";
+"mail.placeholder" = "メールアドレスを入力する";
+"mail.success.message" = "招待しました";
+"mail.title" = "指定したメールアドレスに送る";
+"share.link.button.title" = "リンクをコピーする";
+"share.link.copied" = "コピー済み";
+"share.link.title" = "リンクを共有する";
+"title" = "%@講師の正式レッスンを1回分獲得する";

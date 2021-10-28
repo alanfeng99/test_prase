@@ -1,0 +1,15 @@
+"filter.group.appointmentAccepted" = "Reserved";
+"filter.group.canAttendStoryContest" = "Eligible to enter contest";
+"filter.group.groupLesson" = "Group Lessons";
+"filter.group.privateLesson" = "Active";
+"filter.group.privateMember" = "Team members";
+"filter.group.recommend" = "Recommended";
+"filter.group.trailMember" = "New teachers in contact";
+"filter.group.trialLesson" = "Trial";
+"filter.role.all" = "All";
+"filter.role.member" = "My Team";
+"filter.role.student" = "My students";
+"filter.role.teacher" = "My teachers";
+"filter.title" = "Filter";
+"input.placeholder" = "Say something...";
+"search.placeholder" = "Search by name";

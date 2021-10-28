@@ -1,0 +1,16 @@
+"button.check" = "Ver";
+"lesson.refund.content" = "Haz click en Detalles de la Clase para confirmar el Rembolso";
+"lesson.refund.title" = "Confirmación de reembolso de la Clase";
+"new.recommend.student.title" = "【Haz clic aquí para contactar con el estudiante nuevo】";
+"new.recommend.student.message" = "Nuestro sistema te ha conectado con un nuevo estudiante, ponte en contacto con él/ella lo antes posible.";
+"new.recommend.mentee.title" = "【Haz clic y Contacta con un profesor activo】";
+"new.recommend.mentee.message" = "Hemos encontrado un profesor activo para ti. Por favor, contacta con él/ella lo antes posible.";
+"recommended.student.lose.chance.title" = "El estudiante ya ha sido contactado por otros profesores.";
+"recommended.student.lose.chance.message" = "Lo sentimos, el estudiante ya ha sido contactado por otros profesores. ¡Intenta contactar con ellos más rápido la próxima vez! 😃";
+"product.to.cart.by.student" = "Ahora ponte en el carrito de compra Aproveche la oportunidad de manifestar tu preocupación por los estudiantes";
+"request.accepted" = "Aceptado";
+"request.expired.message.to.student" = "Venció";
+"request.expired.message.to.teacher" = "Caducado. Este registro afectará en tu ranking de profesores.";
+"request.initialization" = "En espera";
+"request.rejected.message.to.student" = "Rechazado";
+"request.rejected.message.to.teacher" = "Rechazado. Este registro afectará en tu ranking de profesores.";

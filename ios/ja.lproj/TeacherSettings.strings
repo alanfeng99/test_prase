@@ -1,0 +1,5 @@
+"teacher.feature" = "講師専用メニュー";
+"course.schedule.title" = "スケジュール & レッスン時間";
+"course.schedule.subtitle" = "レッスン時間を設定・修正する";
+"course.schedule.action" = "スケジュール";
+"course.schedule.recurrence" = "固定のレッスン時間";

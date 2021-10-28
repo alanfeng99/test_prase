@@ -1,0 +1,6 @@
+"teacher.identity.title" = "Identité pas encore vérifiée";
+"teacher.identity.body" = "Vérifiez votre identité avec votre vrai nom afin de recevoir vos pièces AT, ceci est également conforme à la réglementation contre le blanchiment d'argent.";
+"teacher.identity.action" = "Vérifier";
+"teacher.identity.retry.title" = "Besoin de revérifier l'identité";
+"teacher.identity.retry.body" = "La vérification d'identité n'a pas abouti, veuillez revérifier pour retirer vos crédits d'AT";
+"teacher.identity.retry.action" = "Revérifier";

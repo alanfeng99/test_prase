@@ -1,0 +1,16 @@
+"button.check" = "Consulter";
+"lesson.refund.content" = "Veuillez vous rendre à la page Détail de la leçon pour confirmer le remboursement !";
+"lesson.refund.title" = "Confirmation du remboursement du cours";
+"new.recommend.student.title" = "Cliquez ici pour contacter un nouvel étudiant";
+"new.recommend.student.message" = "Vous venez de matché avec un nouvel étudiant, veuillez le/la contacter dès que possible.";
+"new.recommend.mentee.title" = "Contacter un enseignant actif";
+"new.recommend.mentee.message" = "Nous venons de vous trouver un enseignant actif, veuillez le/la contacter dès que possible !";
+"recommended.student.lose.chance.title" = "L'étudiant a déjà été contacté par d'autres professeurs.";
+"recommended.student.lose.chance.message" = "Désolé, l'étudiant a été contacté par un autre enseignant. Soyez plus rapide la prochaine fois 😃";
+"product.to.cart.by.student" = "Ajoutez-vous à votre panier maintenant Profitez-en pour vous soucier des étudiants";
+"request.accepted" = "Accepté";
+"request.expired.message.to.student" = "Expiré";
+"request.expired.message.to.teacher" = "Expiré. Cela aura une incidence sur votre classement dans la liste des enseignants.";
+"request.initialization" = "En attente";
+"request.rejected.message.to.student" = "Rejeté";
+"request.rejected.message.to.teacher" = "Rejeté. Cela aura une incidence sur votre classement dans la liste des enseignants.";

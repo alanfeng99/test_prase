@@ -1,0 +1,17 @@
+"budget.above" = "Above %@";
+"budget.below" = "Below %@";
+"filter.auxiliary" = "Also speaks";
+"filter.budget" = "Price";
+"filter.country" = "From";
+"filter.option.none" = "None";
+"filter.purpose" = "Specialty";
+"filter.tutors" = "%@ tutors";
+"lesson.duration" = "50 mins";
+"reviews" = "%@ Reviews";
+"sort.comments.first" = "More comments first";
+"sort.complete.count.first" = "More lessons completed first";
+"sort.current" = "Currently sort by";
+"sort.low.price.first" = "Low lesson price first";
+"sort.new.tutors.first" = "New tutors first";
+"sort.outstanding.tutors.first" = "Outstanding tutors first";
+"sort.recommend" = "Recommendation";

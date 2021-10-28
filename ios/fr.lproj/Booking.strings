@@ -1,0 +1,12 @@
+"asking.subtitle" = "L'enseignant répondra à la demande avant le %@. La demande sera annulé si l'enseignant n'a pas répondu dans les temps.";
+"asking.title" = "Demande de cours envoyée";
+"course.due.date.title" = "Valide jusqu'à：";
+"expire.request.extension" = "Demande de prolongation";
+"expire.title" = "Les cours que vous avez acheté ont expiré. Vous ne pouvez plus réservé de cours. Veuillez contacter votre professeur pour prolonger la validité des cours restants.";
+"info.card.back" = "Précédent";
+"info.card.confirm" = "Confirmez la réservation";
+"time.status.accepted" = "Vous avez un cours";
+"time.status.initialization" = "Vous avez un cours en réservation";
+"timezone.display" = "* Les horaires indiqués sont ceux de votre fuseau horaire: %@(GMT%@:00)";
+"booking.not.scheduled" = "Non reservés : %@";
+"booking.expire.date" = "Date limite : %@";

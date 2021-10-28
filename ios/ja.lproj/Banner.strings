@@ -1,0 +1,6 @@
+"teacher.identity.title" = "身分証確認未完了";
+"teacher.identity.body" = "本名認証済みのカウントのみATコインを受け取ることができます。同時に、マネーロンダリング防止規制に準拠するために、身元情報を確認する必要があります。";
+"teacher.identity.action" = "認証";
+"teacher.identity.retry.title" = "ID再確認が必要";
+"teacher.identity.retry.body" = "本名身分確認を完了できませんでした。再確認後、ATコインを引き出してください。";
+"teacher.identity.retry.action" = "再確認";

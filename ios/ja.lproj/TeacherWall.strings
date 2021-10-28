@@ -1,0 +1,17 @@
+"budget.above" = "%@ 以上";
+"budget.below" = "%@ 以下";
+"filter.auxiliary" = "話せる言語";
+"filter.budget" = "レッスン料";
+"filter.country" = "国と地域";
+"filter.option.none" = "なし";
+"filter.purpose" = "専門コース";
+"filter.tutors" = "%@先生";
+"lesson.duration" = "50分鐘";
+"reviews" = "%@ 件の評価";
+"sort.comments.first" = "レビュー数の多い順";
+"sort.complete.count.first" = "レッスン数の多い順";
+"sort.current" = "検索の表示順";
+"sort.low.price.first" = "料金が安い順";
+"sort.new.tutors.first" = "新着の先生順";
+"sort.outstanding.tutors.first" = "人気の先生順";
+"sort.recommend" = "おすすめ";

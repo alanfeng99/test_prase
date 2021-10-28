@@ -1,0 +1,6 @@
+"teacher.identity.title" = "Identity not yet verified";
+"teacher.identity.body" = "Verify your identity with your real name in order to receive your AT coins, this also complies with anti-money laundering regulations.";
+"teacher.identity.action" = "Verify";
+"teacher.identity.retry.title" = "Need to reverify identity";
+"teacher.identity.retry.body" = "The ID verification failed. Please reverify to withdraw your AT credits";
+"teacher.identity.retry.action" = "Reverify";

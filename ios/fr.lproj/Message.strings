@@ -1,0 +1,15 @@
+"filter.group.appointmentAccepted" = "Réservé";
+"filter.group.canAttendStoryContest" = "Eligible à la participation du concours";
+"filter.group.groupLesson" = "Cours en groupe";
+"filter.group.privateLesson" = "Classe officielle";
+"filter.group.privateMember" = "Membres de l'équipe";
+"filter.group.recommend" = "Recommandé";
+"filter.group.trailMember" = "Nouveaux professeurs en contact";
+"filter.group.trialLesson" = "Classe d'essai";
+"filter.role.all" = "Tous";
+"filter.role.member" = "Mon équipe";
+"filter.role.student" = "Mon étudiant";
+"filter.role.teacher" = "Mon professeur";
+"filter.title" = "Filtrer";
+"input.placeholder" = "Dites quelque chose ...";
+"search.placeholder" = "Recherche par nom";

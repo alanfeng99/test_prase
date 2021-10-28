@@ -1,0 +1,12 @@
+"asking.subtitle" = "教師將在 %@ 前回覆<br>若不在時間內回覆的話，此課時請求將不成立";
+"asking.title" = "課時請求送出";
+"course.due.date.title" = "到期日：";
+"expire.request.extension" = "請求延長";
+"expire.title" = "此課程包已過期無法預約，請聯繫教師協助延長課程包期限";
+"info.card.back" = "上一步";
+"info.card.confirm" = "確認預約";
+"time.status.accepted" = "您有課程";
+"time.status.initialization" = "您有預約中課程";
+"timezone.display" = "* 時間以 %@ (GMT%@:00) 顯示";
+"booking.not.scheduled" = "未預約: %@";
+"booking.expire.date" = "到期日: %@";
