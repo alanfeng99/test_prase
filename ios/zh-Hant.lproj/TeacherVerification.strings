@@ -24,5 +24,5 @@
 "scan.complete.title" = "審核已經送出";
 "scan.complete.body" = "已送出您的身分審核。審核完另行通知，方可提領AT幣。";
 "in.process" = "驗證資料審核中";
-"permission.denied.feature.unavailable" = "您拒絕了App向您申請的權限X，功能將會受到限制。請前往系統設定手動開啟AmazingTalker的權限。";
+"permission.denied.feature.unavailable" = "您拒絕了App向您申請的權限X2，功能將會受到限制。請前往系統設定手動開啟AmazingTalker的權限。";
 "identity.scan.failure.message" = "證件辨識失敗，請重新掃描證件";
