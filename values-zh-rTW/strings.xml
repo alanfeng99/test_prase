@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string-array name="appointment_before_start_button">
+    <item>即將上課</item>
+    <item>取消預約</item>
+    <item>更改時間</item>
+  </string-array>
+  <string-array name="appointment_completed_button_student">
+    <item>給予評價</item>
+    <item>回報問題</item>
+  </string-array>
+  <string-array name="appointment_completed_button_student_comment_student">
+    <item>預約下一堂課</item>
+    <item>已完成</item>
+  </string-array>
+  <string-array name="appointment_completed_button_teacher">
+    <item>確認完成</item>
+    <item>回報問題</item>
+  </string-array>
+  <string-array name="appointment_disputing_button_action_student">
+    <item>進入教室</item>
+    <item>同意解決方式</item>
+  </string-array>
+  <string-array name="appointment_disputing_button_action_teacher">
+    <item>進入教室</item>
+    <item>重新選擇解決方式</item>
+  </string-array>
+  <string-array name="appointment_disputing_button_reported_student">
+    <item>進入教室</item>
+    <item>已回報問題</item>
+  </string-array>
+  <string-array name="appointment_disputing_button_reported_teacher">
+    <item>進入教室</item>
+    <item>選擇解決方式</item>
+  </string-array>
+  <string-array name="appointment_into_class_button">
+    <item>進入教室</item>
+    <item>回報問題</item>
+  </string-array>
+  <string-array name="appointment_waiting_accept_button_teacher">
+    <item>接受</item>
+    <item>拒絕</item>
+  </string-array>
+  <string-array name="leave_review_star_texts">
+    <item>不滿意</item>
+    <item>需要加強</item>
+    <item>還可以</item>
+    <item>很不錯</item>
+    <item>教得超好的</item>
+  </string-array>
+  <string-array name="teacher_profile_faq_book">
+    <item>購買課程後可依造教師行事曆的時間預約課程</item>
+    <item>如教師顯示『可即時授課』則可立即預約教師待會的時間</item>
+    <item>如教師未在線上最快可預約 24 小時之後的課程</item>
+  </string-array>
+  <string-array name="teacher_profile_faq_duration">
+    <item>體驗課程課時約為 25 分鐘</item>
+    <item>正式課程課時約為 50 分鐘</item>
+    <item>正式課程購買超過 5 堂有額外折扣（視老師開課價額而定）</item>
+  </string-array>
+  <string-array name="teacher_profile_faq_instructions">
+    <item>開課前 10 分鐘進入網站，選擇『我的課程』找到該堂課並點選『進入教室』，即可開啟 ZOOM 教室開始上課</item>
+    <item>手機、電腦皆可使用 ZOOM 上課（手機請先下載 ZOOM 應用程式）</item>
+  </string-array>
+  <string-array name="teacher_profile_faq_refund">
+    <item>當課程發生問題可選擇『回報問題』，可由教師選擇重新預約或是退AT幣</item>
+    <item>如教師超過12小時未給予回覆，系統將自動退AT幣給您</item>
+  </string-array>
+  <string name="common_button_auth_submit">發送</string>
+  <string name="common_button_submit">送出</string>
+  <string name="common_button_cancel">取消</string>
+  <string name="common_button_accept">接受</string>
+  <string name="common_button_reject">拒絕</string>
+  <string name="common_no_data">目前沒有資料</string>
+  <string name="common_none">無</string>
+  <string name="common_trial_session">體驗課</string>
+  <string name="common_private_session">正式課</string>
+  <string name="common_interview">面試課</string>
+  <string name="student">學生</string>
+  <string name="teacher">老師</string>
+  <string name="share">分享</string>
+  <string name="anonymous">匿名</string>
+  <string name="days">%d 天</string>
+  <string name="welcome_subtitle">像好友一樣的外語、學科教師</string>
+  <string name="intro_hello_title">Hi</string>
+  <string name="intro_hello_subtitle">讓我用幾秒鐘時間帶你熟悉如何使用吧</string>
+  <string name="intro_find_title">挑選教師</string>
+  <string name="intro_find_subtitle">並告訴教師學習需求</string>
+  <string name="intro_book_title">預約時間</string>
+  <string name="intro_book_subtitle">選擇方便上課的時間</string>
+  <string name="intro_lesson_title">視訊上課</string>
+  <string name="intro_lesson_subtitle">開始與教師一對一學習</string>
+  <string name="intro_start_btn">開始</string>
+  <string name="intro_i_know">我知道了</string>
+  <string name="login_phone_login">手機登入</string>
+  <string name="login_email_login">信箱登入</string>
+  <string name="login_facebook_login">Facebook 登入</string>
+  <string name="login_google_login">Google 登入</string>
+  <string name="login_phone_sign_up">手機註冊</string>
+  <string name="login_email_sign_up">信箱註冊</string>
+  <string name="login_facebook_sign_up">Facebook 註冊</string>
+  <string name="login_google_sign_up">Google 註冊</string>
+  <string name="login_show_more">顯示更多</string>
+  <string name="login_other_auth">或</string>
+  <string name="login_name_hint">名字</string>
+  <string name="login_email">信箱</string>
+  <string name="login_phone">電話號碼</string>
+  <string name="login_password_hint">密碼(至少八個字元)</string>
+  <string name="login_password_confirmed_hint">確認密碼</string>
+  <string name="login_forget">忘記密碼</string>
+  <string name="login_has_not_registered_hint">尚未註冊？</string>
+  <string name="login_has_not_registered_btn">註冊</string>
+  <string name="login_already_registered_hint">已經註冊？</string>
+  <string name="login_already_registered_btn">登入</string>
+  <string name="login_terms_of_use">點擊「註冊」即表示你同意我們的%s</string>
+  <string name="login_terms_of_use_click">使用條款及私隱政策</string>
+  <string name="login_action_login">登入</string>
+  <string name="login_action_sign_up">註冊</string>
+  <string name="login_title_email_login">登入</string>
+  <string name="login_title_phone_login">手機登入</string>
+  <string name="login_title_email_register">註冊</string>
+  <string name="login_title_phone_register">手機註冊</string>
+  <string name="login_fails">登入失敗, 原因: %s</string>
+  <string name="learning_ticket_entry_title">歡迎來到 AmazingTalker！</string>
+  <string name="learning_ticket_entry_subtitle">讓我們為你媒合最適合自己的教師或學生吧</string>
+  <string name="learning_ticket_entry_student">我是學生</string>
+  <string name="learning_ticket_entry_teacher">我是教師</string>
+  <string name="learning_ticket_btn_next">下一步</string>
+  <string name="learning_ticket_btn_submit">送出</string>
+  <string name="learning_ticket_auxiliary_no">不需要</string>
+  <string name="learning_ticket_auxiliary_yes">需要</string>
+  <string name="learning_ticket_no_data">無資料</string>
+  <string name="learning_ticket_notification">最後一步！開啟通知，以即時收到合適的教師推薦</string>
+  <string name="learning_ticket_allow">開啟通知</string>
+  <string name="learning_ticket_give_up">放棄學習</string>
+  <string name="verify_phone_title">輸入驗證碼</string>
+  <string name="verify_phone_description">已傳送簡訊至 %s 中，請確認後輸入 6 位數驗證碼</string>
+  <string name="verify_phone_count_down" formatted="false">驗證倒數  %02d:%02d</string>
+  <string name="verify_phone_not_received">尚未收到？</string>
+  <string name="verify_phone_resend">重發</string>
+  <string name="forgot_password_send_email">信件已經成功送出，請至您的信箱確認。</string>
+  <string name="forgot_password_send_phone">重置訊息已送出，請至您的簡訊確認。</string>
+  <string name="main_header_text">想學什麼語言\?</string>
+  <string name="main_header_tutors">搜尋教師</string>
+  <string name="main_bottom_navi_visit">逛逛</string>
+  <string name="main_bottom_navi_dispatch">派單</string>
+  <string name="main_bottom_navi_notify">通知</string>
+  <string name="main_bottom_navi_message">訊息</string>
+  <string name="main_bottom_navi_account">帳戶</string>
+  <string name="control_panel_title">您的課程</string>
+  <string name="control_panel_empty_notice">您近期沒有課堂</string>
+  <string name="control_panel_booking">預約課程</string>
+  <string name="control_panel_calendar">瀏覽課表</string>
+  <string name="control_panel_group_class">小班制</string>
+  <string name="control_panel_need_confirm">尚未確認預約</string>
+  <string name="control_panel_need_complete">尚未確認完成</string>
+  <string name="control_panel_leave_review">給予課堂評價</string>
+  <string name="control_panel_in_progress">課程開始 進入教室</string>
+  <string name="control_panel_vip_interview">面試體驗課</string>
+  <string name="control_panel_interview_member">查看面試明細</string>
+  <string name="appointment_date_format_pattern">yyyy年 M月 d日  EEEE</string>
+  <string name="appointment_time_format_pattern">a hh:mm</string>
+  <string name="appointment_send_message">傳送訊息</string>
+  <string name="appointment_password">教室密碼: %s</string>
+  <string name="appointment_download">下載上課檔案</string>
+  <string name="appointment_status">課程狀態</string>
+  <string name="appointment_feedback">回饋紀錄</string>
+  <string name="appointment_report_by_student">學生回報</string>
+  <string name="appointment_report_by_teacher">老師回報</string>
+  <string name="appointment_solution">解決方式</string>
+  <string name="appointment_summary">本堂課總結</string>
+  <string name="appointment_homework">下次上課內容提醒</string>
+  <string name="appointment_student_feedback">學生評價</string>
+  <string name="appointment_no_review">(尚未評價)</string>
+  <string name="appointment_contact_customer_service">點此聯繫客服</string>
+  <string name="appointment_get_free_lesson">獲得 %s 免費課</string>
+  <string name="appointment_get_free_lesson_title">獲得 1 堂 %s 老師的 50 分鐘正式課</string>
+  <string name="appointment_get_free_lesson_content">贈送朋友 1 堂 %1$s 老師的25分鐘體驗課，朋友購買五堂以上正式課程，並結束第一堂正式課後，您就能獲得 1 堂 %2$s 老師的50分鐘正式課囉！推薦 %3$s 老師給想學%4$s的好友吧！</string>
+  <string name="appointment_get_free_lesson_invite">發送給指定信箱</string>
+  <string name="appointment_get_free_lesson_invite_hint">輸入電子郵件地址</string>
+  <string name="appointment_get_free_lesson_send_invitation">發送邀請</string>
+  <string name="appointment_get_free_lesson_share_link">分享連結</string>
+  <string name="appointment_get_free_lesson_copy_link">複製連結</string>
+  <string name="appointment_get_free_lesson_invite_success">成功發送邀請</string>
+  <string name="appointment_get_free_lesson_copied">已複製</string>
+  <string name="appointment_student">學生</string>
+  <string name="appointment_teacher">老師</string>
+  <string name="appointment_issue_was_absent">%s無故缺席</string>
+  <string name="appointment_issue_related_technical_difficulties">%s網路/技術性問題</string>
+  <string name="appointment_issue_felt_ill">%s身體不適</string>
+  <string name="appointment_issue_took_a_personal_leave">%s臨時有事</string>
+  <string name="appointment_issue_other">%s其他問題</string>
+  <string name="appointment_action_reset_lesson_to_unscheduled">讓學生重新預約</string>
+  <string name="appointment_action_give_the_student_a_100_percent_refund">退全額課費給學生：無法重新預約</string>
+  <string name="appointment_action_give_the_student_a_50_percent_refund">退半額課費給學生：無法重新預約</string>
+  <string name="appointment_action_mark_lesson_as_completed">不退費：並標記課堂已完成</string>
+  <string name="appointment_cancel_appointment">取消預約</string>
+  <string name="appointment_cancel_reason">請說明為什麼要取消該堂課時，並詢問方便預約的時間。</string>
+  <string name="appointment_waiting_accept_description_interview">等待導師回覆面試請求。</string>
+  <string name="appointment_waiting_accept_description_student">課時請求已送出，教師將在 %s 前回覆，若不在時間內回覆的話，此課時請求將不成立。</string>
+  <string name="appointment_waiting_accept_description_teacher">請在 %s 前回覆課時請求。</string>
+  <string name="appointment_waiting_accept_button_student">取消預約</string>
+  <string name="appointment_waiting_accept_status">等待確認中</string>
+  <string name="appointment_confirm_expired_description_student">此堂課時請求已過期，系統已自動歸還課堂數，請至行事曆頁面重新預約課程時間。</string>
+  <string name="appointment_confirm_expired_description_teacher">此堂課時請求已過期，請提醒學生重新預約課程時間，並記得下次要在24小時內回覆課時請求。</string>
+  <string name="appointment_confirm_expired_button">請求已過時</string>
+  <string name="appointment_confirm_expired_status">已過期</string>
+  <string name="appointment_before_start_description">如需取消課，須在開課前12小時完成取消的動作，如果12小時內想要更改課時，須事先告知，並等到上課時間開始後即可回報此問題，『取消預約』將在開課後轉變為『回報問題』</string>
+  <string name="appointment_before_start_description_zoom_intro">課程將使用ZOOM進行視訊教學，上課前十分鐘『即將開始』會轉變為『進入教室』，建議上課前提早進入教室系統會自動安裝並啟動ZOOM，電腦、平板及手機皆可上課</string>
+  <string name="appointment_before_start_description_student_group">小班課程不設取消課堂或補課。如果無法出席課堂，請在課後 1 天內到該課堂明細中下載課程錄影檔。1 天後系統將自動刪除該錄影檔。教師有權因應狀況更改上課時間。如果對上課時間有任何疑問，請直接跟教師聯繫。</string>
+  <string name="appointment_before_start_description_teacher_group">若教師無法出席課堂，請務必在 12 小時前更改上課時間，更改後系統會自動更新學生上課時間。系統會為每堂課進行錄影，如果學生未能出席課程，請提醒學生在課堂後 1 天內下載課堂錄影檔。</string>
+  <string name="appointment_before_start_description_student_interview">您即將開始面試。面試後，導師需於24小時內決定是否邀請您加入團隊。</string>
+  <string name="appointment_before_start_description_teacher_interview">您即將開始面試。面試後，請於24小時內決定是否邀請該教師加入團隊。</string>
+  <string name="appointment_before_start_description_student_vip">如果需要更改面試時間：
+上課12小時前，請點選下方『取消預約』
+上課12小時內，請傳送訊息吿知教師無法出席，等課程開始時再點選『回報面試狀況』</string>
+  <string name="appointment_before_start_status">已預約</string>
+  <string name="appointment_cancel_description_by_student">此課程已被學生取消</string>
+  <string name="appointment_cancel_description_by_teacher">此課程已被老師取消</string>
+  <string name="appointment_cancel_button">課程已取消</string>
+  <string name="appointment_cancel_status">已取消</string>
+  <string name="appointment_into_class_description">上課時間已到，可以提早5–10分鐘進入教室，若教師/學生沒出現可先『傳送訊息』詢問確認是否在線上，若超過5-10分鐘依然未出現，請直接點擊『回報問題』，老師將會選擇一個適當的處理方式。</string>
+  <string name="appointment_into_class_description_student_group">請在上課前5分鐘進入教室，若臨時未能出席課堂或遲到，請在課後一天內下載完成課堂錄影檔。</string>
+  <string name="appointment_into_class_description_teacher_group">請在上課前5分鐘進入教室，若個別學生臨時未能出席課堂或遲到，可以建議學生在課後一天內下載完成課堂錄影檔。</string>
+  <string name="appointment_into_class_description_student_interview">您即將開始面試。面試後，導師需於24小時內決定是否邀請您加入團隊。</string>
+  <string name="appointment_into_class_description_teacher_interview">請於24小時內決定是否邀請該教師加入團隊。(至該教師頁面即可邀請加入)</string>
+  <string name="appointment_into_class_description_student_vip">上課時間到囉！請提早進入教室準備。如果對方沒有出現，請先傳送訊息詢問。
+完成課堂或有任何狀況，請點選下方『回報面試狀況』填寫面試結果。</string>
+  <string name="appointment_into_class_write_interview_report_button">回報面試狀況</string>
+  <string name="appointment_into_class_status">已預約</string>
+  <string name="appointment_disputing_description_report_by_student_student">課程進入爭議階段，教師將會盡快回覆一個適當的處理方式</string>
+  <string name="appointment_disputing_description_report_by_student_teacher">課程進入爭議階段，教師必須盡快回覆一個適當的處理方式</string>
+  <string name="appointment_disputing_description_teacher_take_action_student">教師已回覆此問題，若不同意教師的解決方式，請直接點此聯繫客服。若學生並未在 %s  點選“同意解決方式”，系統將直接默認教師選擇的處理方式，並標記為已解決</string>
+  <string name="appointment_disputing_description_teacher_take_action_teacher">教師已回覆此問題，等待學生確認中，若學生並未在 %s 確認，系統將直接默認教師選擇的處理方式，並標記為已解決</string>
+  <string name="appointment_disputing_status">爭議中</string>
+  <string name="appointment_dispute_resolved_button_rescheduled">已退課</string>
+  <string name="appointment_dispute_resolved_button_refund">已退款</string>
+  <string name="appointment_dispute_resolved_status_rescheduled">可重新預約</string>
+  <string name="appointment_dispute_resolved_status_refund">已退費</string>
+  <string name="appointment_interview_description_student">面試官已回報未完成，請重新發送預約請求</string>
+  <string name="appointment_interview_description_teacher">面試官已回報未完成，請等待下一則預約請求</string>
+  <string name="appointment_completed_description_student">課程完成後請老師該堂課後回饋，若上課過程中發生任何問題也可直接回報反應。</string>
+  <string name="appointment_completed_description_teacher">課程結束後請點選下方『確認完成』按鈕，若課程發生任何問題請直接點選下方『回報問題』反應。</string>
+  <string name="appointment_completed_description_student_comment_student">課程完成後請給予老師該堂課後回饋，若上課過程中發生任何問題也可直接點此聯繫客服。</string>
+  <string name="appointment_completed_description_student_comment_teacher">課程結束後請點選下方『確認完成』按鈕，若課程發生任何問題請點此聯繫客服。</string>
+  <string name="appointment_completed_description_mentoring_interview_end_student">請至教師團隊頁面查看</string>
+  <string name="appointment_completed_description_mentoring_interview_end_teacher">若要邀請教師加入團隊，請於24小時內前往教師個人頁面邀請</string>
+  <string name="appointment_completed_description_teacher_interview">課程結束後請點選下方『確認完成』按鈕，若課程發生任何問題請點此聯繫客服。</string>
+  <string name="appointment_completed_button_student_comment_teacher">確認完成</string>
+  <string name="appointment_completed_button_teacher_comment_student">給予評價</string>
+  <string name="appointment_completed_button_teacher_comment_teacher">已完成</string>
+  <string name="appointment_completed_button_both_comment_student">預約下一堂課</string>
+  <string name="appointment_completed_button_both_comment_teacher">@string/appointment_completed_button_teacher_comment_teacher</string>
+  <string name="appointment_completed_button_reported_student">已回報問題</string>
+  <string name="appointment_completed_button_reported_teacher">選擇解決方式</string>
+  <string name="appointment_completed_button_action_student">同意解決方式</string>
+  <string name="appointment_completed_button_action_teacher">重新選擇解決方式</string>
+  <string name="appointment_completed_status_uncompleted">已預約</string>
+  <string name="appointment_completed_status_completed">已完成</string>
+  <string name="appointment_completed_status_interview_accepted">已預約</string>
+  <string name="appointment_completed_wait_until_vip_rate">請等面試官填完評價後，再確認完成</string>
+  <string name="appointment_completed_button_interview_agree">確認同意</string>
+  <string name="appointment_can_be_rescheduled_reported">已回報問題</string>
+  <string name="appointment_can_be_rescheduled_agreed">已確認同意</string>
+  <string name="appointment_interview_rating_how_about_class">你覺得這堂課教師表現如何\?</string>
+  <string name="dispute_optional_reason_hint">請以至少5個字填寫說明</string>
+  <string name="dispute_support_title">zoom發生問題請%s進入測試連結</string>
+  <string name="dispute_support_title_clickable">點此</string>
+  <string name="dispute_support_message">上傳錯誤畫面的照片或影片至客服系統，我們才能幫您檢測問題呦！</string>
+  <string name="leave_review_satisfaction_title">選擇課程滿意度</string>
+  <string name="leave_review_satisfaction_subtitle">請點選星等為老師評分，若未點選，系統預設為五顆星。</string>
+  <string name="leave_review_teaching_style_title">選擇適合教師的教學特質標籤（選填）</string>
+  <string name="leave_review_teaching_style_subtitle">可選擇一個以上</string>
+  <string name="leave_review_teaching_feedback_title">給予教師課堂回饋</string>
+  <string name="leave_review_teaching_feedback_subtitle">建議至少以1–2行字回顧今天上課情形，能更幫助老師了解您的學習狀況喔！</string>
+  <string name="leave_review_teaching_feedback_anonymous">此回饋將匿名顯示於教師個人頁面上</string>
+  <string name="leave_review_studying_feedback_title">給予學生課堂回饋</string>
+  <string name="leave_review_group_studying_feedback_title">給予 %s 課堂回饋</string>
+  <string name="leave_review_next_session_title">請提醒學生待完成作業或下次上課內容</string>
+  <string name="leave_review_studying_subtitle">學生將看到此評價內容</string>
+  <string name="leave_review_hint">請填寫…</string>
+  <string name="leave_interview_review_recommend_hint">此評價將協助我們及學生了解教師的教學狀況 將出現在教師頁面上，請用心填寫…</string>
+  <string name="leave_interview_review_not_recommend_hint">此評價將協助我們了解教師的教學狀況 教師不會看到，請放心填寫</string>
+  <string name="calendar_title">行事曆</string>
+  <string name="calendar_no_lesson">找不到任何課程</string>
+  <string name="booking_course_more">顯示更多</string>
+  <string name="booking_course_expired">到期日：%s</string>
+  <string name="booking_course_occupied">您有課程 %s</string>
+  <string name="booking_course_dialog_previous">上一步</string>
+  <string name="booking_course_dialog_confirm">確認預約</string>
+  <string name="booking_course_success">預約完成</string>
+  <string name="booking_course_expired_text">此課程包已過期無法預約，請聯繫教師協助延長課程包期限</string>
+  <string name="booking_course_request_extend">請求延長</string>
+  <string name="teacher_list_advance_search_specialty">學習需求</string>
+  <string name="teacher_list_advance_search_auxiliary">輔助語言</string>
+  <string name="teacher_list_advance_search_budget">預算區間</string>
+  <string name="teacher_list_advance_search_country">國家</string>
+  <string name="teacher_list_budget_options_below">%s 以下</string>
+  <string name="teacher_list_budget_options_above">%s 以上</string>
+  <string name="teacher_list_budget_options_range">%1$s - %2$s</string>
+  <string name="teacher_list_sort">排序</string>
+  <string name="teacher_list_reviews">・%s 個評論</string>
+  <string name="teacher_suggested_list_reviews">%s 個評論</string>
+  <string name="teacher_list_private_lesson_duration">%s / 50分鐘</string>
+  <string name="teacher_list_filter_budget_below">%s 以下</string>
+  <string name="teacher_list_filter_budget_above">%s 以上</string>
+  <string name="teacher_list_filter_budget_range">%1$s - %2$s</string>
+  <string name="teacher_list_sort_current_sorting">目前排序</string>
+  <string name="teacher_list_sort_instant_recommendation">即時推薦</string>
+  <string name="teacher_list_sort_outstanding_tutors_first">優質教師優先</string>
+  <string name="teacher_list_sort_new_tutors_first">新教師優先</string>
+  <string name="teacher_list_sort_low_lesson_price_first">低價優先</string>
+  <string name="teacher_list_sort_more_lessons_completed_first">多完課數優先</string>
+  <string name="teacher_list_sort_more_comments_first">多評價數優先</string>
+  <string name="messenger_search_bar_hint">搜尋名字</string>
+  <string name="messenger_no_message">目前沒有訊息</string>
+  <string name="messenger_filter_role_title">篩選</string>
+  <string name="messenger_filter_role_all">全部</string>
+  <string name="messenger_filter_role_teacher">我的老師</string>
+  <string name="messenger_filter_role_student">我的學生</string>
+  <string name="messenger_filter_role_member">我的成員</string>
+  <string name="messenger_filter_option_private_lesson">正式課</string>
+  <string name="messenger_filter_option_trial_lesson">體驗課</string>
+  <string name="messenger_filter_option_recommend">推薦媒合</string>
+  <string name="messenger_filter_option_appointment_accepted">已完成預約</string>
+  <string name="messenger_filter_option_can_attend_story_contest">達成競賽資格</string>
+  <string name="messenger_filter_option_group_lesson">小班制</string>
+  <string name="messenger_filter_option_private_member">團隊成員</string>
+  <string name="messenger_filter_option_trial_member">媒合新教師</string>
+  <string name="chat_input_hint">說些什麼…</string>
+  <string name="chat_input_hint_blocked">已無法回覆此對話</string>
+  <string name="chat_no_message">沒有訊息</string>
+  <string name="chat_user_title_information">用戶資訊</string>
+  <string name="chat_user_title_teach">會教</string>
+  <string name="chat_user_title_learn">在學</string>
+  <string name="chat_user_title_scheduled">即將上課堂數</string>
+  <string name="chat_user_title_completed">已完成上課堂數</string>
+  <string name="chat_user_title_unscheduled">尚未預約課堂數</string>
+  <string name="chat_user_title_last_lesson">上次上課日期</string>
+  <string name="chat_user_title_demand">學習需求</string>
+  <string name="chat_user_title_block_message">封鎖</string>
+  <string name="chat_user_view">查詢</string>
+  <string name="learning_tickets_lang_ticket">%s學習需求</string>
+  <string name="learning_tickets_budget">預算</string>
+  <string name="learning_tickets_age">年紀</string>
+  <string name="learning_tickets_purpose">動機</string>
+  <string name="learning_tickets_level">程度</string>
+  <string name="learning_tickets_weakness">加強</string>
+  <string name="learning_tickets_note">備註</string>
+  <string name="chat_message_trial_ask">
+若您是第一次上課，請參考以下教學文章，就知道如何進入教室囉!
+https://amazingtalker.elevio.help/zh-hant/articles/244</string>
+  <string name="chat_message_student_recommend">因為該老師擅長 %s</string>
+  <string name="chat_message_button_open_time_slot">排課 %s</string>
+  <string name="chat_message_button_open_book">預約 %s</string>
+  <string name="chat_message_button_purchase">購課</string>
+  <string name="chat_message_button_courses">課程</string>
+  <string name="chat_message_button_discount">優惠券</string>
+  <string name="chat_message_button_custom_messages">範本訊息</string>
+  <string name="chat_message_next_lesson">下一堂課: %s</string>
+  <string name="chat_message_schedule_title">課時請求</string>
+  <string name="chat_message_schedule_select_course">選擇課堂包</string>
+  <string name="chat_message_schedule_select_hint">請選擇使用的課堂包</string>
+  <string name="chat_message_schedule_select_date_hint">請選擇日期</string>
+  <string name="chat_message_schedule_select_time_hint">請選擇時間</string>
+  <string name="chat_message_schedule_teacher_timezone">老師當地時間（GMT：%s:00）</string>
+  <string name="chat_message_schedule_student_timezone">學生當地時間（GMT：%s:00）</string>
+  <string name="chat_message_schedule_student_time_hint">請選擇上面開課時間</string>
+  <string name="chat_message_courses_purchase">立即購買</string>
+  <string name="chat_message_courses_expired">過期失效</string>
+  <string name="chat_message_courses_expired_date">到期時間: %s</string>
+  <string name="chat_message_courses_remaining_time">剩餘時間: %1$02d : %2$02d : %3$02d</string>
+  <string name="chat_message_courses_program">%1$s: %2$s堂課 x %3$s (%4$s分鐘)</string>
+  <string name="chat_message_group_class_program">%1$s / %2$s 堂 %3$s 分鐘課</string>
+  <string name="chat_message_discount_time_left">剩餘時間: %s</string>
+  <string name="chat_message_discount_min_value">最低消費門檻: %s</string>
+  <string name="chat_message_discount_used">已使用</string>
+  <string name="chat_message_direct_booking_request_title">教師發送課時預約確認</string>
+  <string name="chat_message_direct_booking_request_timezone_display">時區： %1$s %2$s</string>
+  <string name="chat_message_direct_booking_request_accepted">已接受</string>
+  <string name="chat_message_direct_booking_request_rejected">已拒絕</string>
+  <string name="chat_message_direct_booking_request_await">等待中</string>
+  <string name="chat_message_direct_booking_request_available">時效: %1$02d : %2$02d : %3$02d</string>
+  <string name="chat_message_course_extension_title">課堂包延長請求</string>
+  <string name="chat_message_course_extension_remaining_count">剩餘堂數: %s堂課</string>
+  <string name="chat_message_course_extension_expired">到期日: %s</string>
+  <string name="chat_message_course_extension_extended">已延長</string>
+  <string name="chat_message_course_extension_extend">延長期限</string>
+  <string name="chat_message_extend_package_title">修改課程包</string>
+  <string name="chat_message_extend_package_type">課程類型</string>
+  <string name="chat_message_extend_package_student">學生姓名</string>
+  <string name="chat_message_extend_package_lesson">剩餘堂數</string>
+  <string name="chat_message_extend_package_expired_date">到期日</string>
+  <string name="chat_message_extend_package_extend_to">延長至</string>
+  <string name="chat_message_extend_package_note">* 教師須上完全部課程才可收到全額上課費用</string>
+  <string name="chat_message_extend_package_update">修改</string>
+  <string name="chat_message_popup_lessons">%s堂</string>
+  <string name="chat_message_popup_minutes">%s分鐘</string>
+  <string name="chat_message_popup_discount_title">發送優惠券</string>
+  <string name="chat_message_popup_discount_10usd_by_self_hand_title">贈送 %s 10美元體驗優惠券</string>
+  <string name="chat_message_popup_discount_10usd_by_self_hand_desc">無金額限制，1天內需使用完畢</string>
+  <string name="chat_message_popup_discount_10usd_with_limit_title">贈送 %s 10美元體驗優惠券</string>
+  <string name="chat_message_popup_discount_10usd_with_limit_desc">最低消費 $100 美元, 1天內使用完畢</string>
+  <string name="chat_message_popup_discount_5usd_with_limit_title">贈送 %s 5美元體驗優惠券</string>
+  <string name="chat_message_popup_discount_5usd_with_limit_desc">最低消費 $50 美元, 1天內使用完畢</string>
+  <string name="chat_message_popup_discount_sent_successfully">已成功發送優惠券給 %s</string>
+  <string name="chat_message_popup_discount_failed_to_send">優惠券發送失敗</string>
+  <string name="chat_message_popup_discount_redeem">立即使用</string>
+  <string name="chat_message_popup_discount_expired">已過期</string>
+  <string name="chat_message_popup_discount_used">已使用</string>
+  <string name="chat_message_popup_courses_title">請選擇課程</string>
+  <string name="chat_message_popup_courses_sent_successfully">已成功發送</string>
+  <string name="chat_message_popup_courses_failed_to_send">發送失敗</string>
+  <string name="chat_message_popup_sample_title">範本訊息</string>
+  <string name="notify_no_notice">您目前沒有通知</string>
+  <string name="notify_request_no_request">目前沒有課程問題請求</string>
+  <string name="notify_request_title">課時請求</string>
+  <string name="notify_request_initialization">請求中</string>
+  <string name="notify_request_accepted">已接受</string>
+  <string name="notify_request_expired">已過期</string>
+  <string name="notify_request_expired_to_teacher">已過期，此紀錄將影響您的教師排名</string>
+  <string name="notify_request_rejected">已拒絕</string>
+  <string name="notify_request_rejected_to_teacher">已拒絕，此紀錄將影響您教師的排名</string>
+  <string name="notify_dispute_title">課程問題</string>
+  <string name="notify_dispute_check">查看</string>
+  <string name="settings_remain_course_number">堂課</string>
+  <string name="settings_at_coins">AT幣</string>
+  <string name="settings_show_collection">收藏教師</string>
+  <string name="settings_coupons">優惠券</string>
+  <string name="settings_referral">邀請好友</string>
+  <string name="settings_account_setting">帳號設定</string>
+  <string name="settings_teacher_active">教師招生</string>
+  <string name="settings_change_currency">更改貨幣</string>
+  <string name="settings_log_out">登出</string>
+  <string name="settings_current_month_income">本月收入 %s</string>
+  <string name="settings_upcoming_session_count">即將上課堂數: %d</string>
+  <string name="settings_completed_session_count">已完成上課堂數: %d</string>
+  <string name="settings_unscheduled_session_count">學生未預約課堂數: %d</string>
+  <string name="settings_recruitment_settings">招生設定</string>
+  <string name="settings_manually_confirm_requests">手動確認預約</string>
+  <string name="settings_instant_tutoring">即時授課</string>
+  <string name="settings_recruit_students">招收新學生</string>
+  <string name="settings_recommendation_system">推薦系統</string>
+  <string name="settings_search_currency">輸入要查詢的貨幣</string>
+  <string name="settings_logout_confirmation">確定要登出嗎</string>
+  <string name="notification_show_label">顯示</string>
+  <string name="notification_close_label">關閉</string>
+  <string name="notification_reply_label">回覆</string>
+  <string name="notification_reply_hint">輸入回覆訊息</string>
+  <string name="notification_request">未開啟通知，將錯過上課時間和訊息。請前往 [設定] → [通知] → [顯示通知]</string>
+  <string name="notification_goto_settings">前往設定</string>
+  <string name="inner_notification_new_recommend_student_title">【點我聯繫新學生】</string>
+  <string name="inner_notification_new_recommend_student_message">系統已媒合一位新學生給您，請儘快聯繫！</string>
+  <string name="inner_notification_cart_notice_message">現在把您加入購物車
+快把握機會關心學生吧</string>
+  <string name="inner_notification_refund_title">退課確認</string>
+  <string name="inner_notification_refund_message">請至課程明細中確認退課唷!</string>
+  <string name="dispatch_title_learning_ticket">學生派單 %s</string>
+  <string name="dispatch_title_training_ticket">教師派單 %s</string>
+  <string name="dispatch_talk_to_students">跟學生打招呼，關心他吧！</string>
+  <string name="dispatch_skip">略過</string>
+  <string name="dispatch_character_left">剩餘 %s 個字元</string>
+  <string name="dispatch_save_template">儲存為常用回覆內容</string>
+  <string name="teacher_profile_sessions_completed">%1$d 堂%2$s課完成</string>
+  <string name="teacher_profile_realtime">導師目前可即時授課</string>
+  <string name="teacher_profile_can_speak">會說</string>
+  <string name="teacher_profile_self_introduction">自我介紹</string>
+  <string name="teacher_profile_expand_self_introduction">瀏覽全部自我介紹</string>
+  <string name="teacher_profile_group_lessons">團體班課程</string>
+  <string name="teacher_profile_group_lessons_discount">約為正式課的 6 折 🔥 優惠名額有限！</string>
+  <string name="teacher_profile_expand_group_lessons">瀏覽全部團體班課程</string>
+  <string name="teacher_profile_video_intro_title">影片介紹</string>
+  <string name="teacher_profile_video_one_to_one">一對一教學影片</string>
+  <string name="teacher_profile_video_other">任意加分影片</string>
+  <string name="teacher_profile_sweet_hint">超過 5 堂課以上有額外的優惠，可在下方看到價格或是購物車選擇！</string>
+  <string name="teacher_profile_available_times">授課時間</string>
+  <string name="teacher_profile_view_full_schedule">顯示全部時間</string>
+  <string name="teacher_profile_ratings_title">%1$d 筆%2$s課程評價</string>
+  <string name="teacher_profile_more_comments">顯示全部 %d 則評價</string>
+  <string name="teacher_profile_purchase">購買課程</string>
+  <string name="teacher_profile_package_label">%d堂 50 分鐘課</string>
+  <string name="teacher_profile_resume">履歷</string>
+  <string name="teacher_profile_experiences">工作經驗</string>
+  <string name="teacher_profile_educations">教育背景</string>
+  <string name="teacher_profile_certificates">證照證書</string>
+  <string name="teacher_profile_certification">已上傳證書</string>
+  <string name="teacher_profile_faq">常見問題</string>
+  <string name="teacher_profile_faq_book_title">預約方式</string>
+  <string name="teacher_profile_faq_duration_title">費用說明</string>
+  <string name="teacher_profile_faq_instructions_title">上課說明</string>
+  <string name="teacher_profile_faq_refund_title">退課須知</string>
+  <string name="teacher_profile_badge_top_for_student_title">僅有 %s 的優質教師</string>
+  <string name="teacher_profile_badge_top_for_student_desc">在 AmazingTalker 受到大量學生喜愛，好評不斷的優質教師！</string>
+  <string name="teacher_profile_badge_top_for_teacher_title">僅有 %s 高收入優質教師</string>
+  <string name="teacher_profile_badge_top_for_teacher_desc">在 AmazingTalker 月收入超過 %s 美元以上教師 (僅教師看得到)</string>
+  <string name="teacher_profile_badge_hot_title">現正火熱教師</string>
+  <string name="teacher_profile_badge_hot_desc">近期學生大量購課的好評教師！</string>
+  <string name="teacher_profile_badge_new_title">現正火熱新教師</string>
+  <string name="teacher_profile_badge_new_desc">近期學生大量購課的好評新教師！</string>
+  <string name="teacher_profile_badge_ghost_title">神出鬼沒的幽靈教師</string>
+  <string name="teacher_profile_badge_ghost_desc">近 1 個月取消學生的課程預約、或未出席的比例超過 15% 的教師。</string>
+  <string name="teacher_profile_private_lesson">50分鐘</string>
+  <string name="teacher_profile_trial_lesson">25分鐘</string>
+  <string name="teacher_profile_booking_private">預約正式課</string>
+  <string name="teacher_profile_booking_trial">預約體驗</string>
+  <string name="teacher_profile_contact_button">聯繫老師</string>
+  <string name="teacher_profile_ask_learning_language_title">%1$s 老師會教 %2$d 種語言唷!您想了解哪一種呢\?</string>
+  <string name="teacher_profile_group_completed_lessons">已完成團體課：%d堂</string>
+  <string name="teacher_profile_group_taught_students">累計團體課學生：%d人</string>
+  <string name="teacher_profile_group_date_label">%1$s 至 %2$s</string>
+  <string name="teacher_profile_group_registration_status">報名人數 ( %1$d / %2$d )</string>
+  <string name="teacher_profile_group_class_details">%1$d 堂 %2$d 分鐘課</string>
+  <string name="teacher_profile_group_early_bird_count_down">早鳥倒數 %1$s %2$02d : %3$02d : %4$02d</string>
+  <string name="teacher_profile_group_late_bird_count_down">晚鳥倒數 %1$s %2$02d : %3$02d : %4$02d</string>
+  <string name="teacher_ratings_title">%1$s評價 %2$d</string>
+  <string name="teacher_ratings_more_and_total">顯示更多 (%d則)</string>
+  <string name="teacher_ratings_more">更多</string>
+  <string name="teacher_suggested">推薦教師</string>
+  <string name="common_see_all">看全部</string>
+  <string name="update_body_display">您的APP版本過舊，請更新您的APP</string>
+  <string name="teacher_dispatch_input_placeholder">跟教師打招呼，協助他達到目標吧!</string>
+  <string name="common_blank_content">（空白）</string>
+  <string name="teacher_dispatch_template">教師派單範本</string>
+  <string name="common_save_failure">儲存失敗</string>
+  <string name="common_save_success">儲存成功</string>
+  <string name="language_validating">正在驗證文字語言</string>
+  <string name="service_template_formatted">教%s的範本</string>
+  <string name="input_minimum_restriction_formatted">尚需%d個字</string>
+  <string name="input_over_maximum_content">字數過多</string>
+  <string name="language_restriction_formatted">注意只能使用%s唷</string>
+  <string name="language_save_formatted">儲存成%s範本</string>
+  <string name="language_apply_formatted">已套用%s範本</string>
+  <string name="template_replace_dialog_title">您要覆蓋派單訊息嗎\?</string>
+  <string name="template_replace_dialog_body">派單訊息跟範本內容不同，套用這個範本將覆蓋派單訊息</string>
+  <string name="template_edit_title">管理派單範本</string>
+  <string name="language_response_formatted">%s的回覆</string>
+  <string name="entrance_from_dispatch_footer">你隨時可以在「帳戶」的「管理派單範本」中編輯</string>
+  <string name="template_language_restrict_warning">必須使用學生期待的語言回覆</string>
+  <string name="dispatch_training_ticket">教師派單</string>
+  <string name="template_paste">覆蓋</string>
+  <string name="inner_notification_new_recommend_teacher_title">【點我聯繫積極教師】</string>
+  <string name="inner_notification_new_recommend_teacher_message">系統已媒合一位積極教師給您，請盡快聯繫!</string>
+  <string name="common_edit">編輯</string>
+  <string name="input_reply_placeholder_formatted">你必須用%s回覆派單</string>
+  <string name="inject_user_name_button">標記名字</string>
+  <string name="search_input_placeholder">搜尋語言</string>
+  <string name="search_result_header">建議搜尋結果</string>
+  <string name="search_empty_content">🙈查無相關結果</string>
+  <string name="search_title">想學什麼語言？</string>
+  <string name="search_input_placeholder_k12">搜尋語言、學科</string>
+  <string name="search_title_k12">想學什麼語言、學科？</string>
+  <string name="customer_service">聯繫客服</string>
+  <string name="appointment_previous_feedback">上堂課回饋</string>
+  <string name="appointment_feedback_view_all">所有回饋</string>
+  <string name="appointment_index_formatted">第%s堂</string>
+  <string name="inner_notification_dispatch_taken_body">不好意思，有個學員已被其他老師聯繫走囉，下次記得快點回來聯繫學員喔！😃</string>
+  <string name="inner_notification_dispatch_taken_title">學員已被其他老師聯繫  </string>
+  <string name="setting_template_message">管理聊天室範本訊息</string>
+  <string name="common_create">新增</string>
+  <string name="message_template_common">常用訊息</string>
+  <string name="message_template_empty_content">無範本訊息</string>
+  <string name="message_template_empty_search">找不到此則訊息</string>
+  <string name="message_template_all">所有訊息</string>
+  <string name="message_template_add_description">新增範本訊息</string>
+  <string name="message_template_edit_description">編輯範本訊息</string>
+  <string name="message_template_edit_title_hint">範本名稱 (必填)</string>
+  <string name="message_template_edit_body_hint">範本內容 (至少10字元)</string>
+  <string name="message_template_edit_title_restrict">範本名稱不可空白</string>
+  <string name="message_template_edit_body_restrict">內容不能少於%d個字元</string>
+  <string name="common_save">儲存</string>
+  <string name="message_template_search">搜尋範本訊息</string>
+  <string name="payment_failure">付款失敗，請聯繫我們支援，或使用其他支付方法。</string>
+  <string name="banner_validate_title">尚未驗證身分</string>
+  <string name="banner_validate_body">實名制驗證身分才能領取你的AT幣，同時盡到洗錢防制的義務</string>
+  <string name="banner_validate_action">進行驗證</string>
+  <string name="banner_re_validate_title">需重新驗證身分</string>
+  <string name="banner_re_validate_body">未通過實名制身分驗證，請重新驗證以提領您的AT幣</string>
+  <string name="banner_re_validate_action">重新驗證</string>
+  <string name="validate_teacher">教師實名制驗證</string>
+  <string name="validate_country_title">確認國籍</string>
+  <string name="validate_search_country">搜尋國家</string>
+  <string name="validate_search_language">搜尋母語</string>
+  <string name="validate_language_title">選擇您的母語</string>
+  <string name="validate_scan_type_title">請選擇驗證使用的證件</string>
+  <string name="validate_scan_passport_or_not_title">您是否有護照</string>
+  <string name="validate_scan_passport_has_passport">是，我有護照</string>
+  <string name="validate_scan_passport_no_passport">否，我沒有護照</string>
+  <string name="validate_scan_tw_id">台灣身分證</string>
+  <string name="validate_scan_tw_passport">台灣護照</string>
+  <string name="validate_scan_tw_drivers_license">台灣駕照</string>
+  <string name="validate_scan_next">下一步</string>
+  <string name="validate_scan_next_face_scan">下一步 : 人臉掃描</string>
+  <string name="validate_scan_complete">結束</string>
+  <string name="validate_start_scan_title">備妥證件並準備掃描</string>
+  <string name="validate_start_scan_body">透過驗證老師真人身分盡到洗錢防治的義務。請準備:
+ ‧允許相機存取權限
+ ‧掃描證件
+ ‧人臉掃描</string>
+  <string name="validate_confirn_scan_content_title">確認證件資料</string>
+  <string name="validate_confirn_scan_content_single_field_body">真實姓名需與「證件姓名」一致，若不相符請重新輸入</string>
+  <string name="validate_confirn_scan_content_passport_field_body">真實姓名需與「護照羅馬拼音姓名」一致，若不相符請重新輸入</string>
+  <string name="validate_confirn_scan_single_real_name">真實姓名</string>
+  <string name="validate_confirn_scan_multiple_real_name">真實姓名:Surname</string>
+  <string name="validate_confirn_scan_multiple_given_name">真實姓名:Given name/Middle name</string>
+  <string name="validate_country">國籍</string>
+  <string name="validate_scan_complete_title">審核已經送出</string>
+  <string name="validate_scan_complete_body">已送出您的身分審核。審核完另行通知，方可提領AT幣。</string>
+  <string name="validate_in_process">驗證資料審核中</string>
+  <string name="permission_denied_feature_unavailable">您拒絕了App向您申請的權限，功能將會受到限制。請前往系統設定手動開啟AmazingTalker的權限。</string>
+  <string name="validate_id_scan_failure_message">證件辨識失敗，請重新掃描證件</string>
+  <string name="formatted_timezone_display" formatted="false">*時間以 %s(%s)顯示</string>
+  <string name="learning_ticket_budget_options_below">%s 以下</string>
+  <string name="learning_ticket_budget_options_above">%s 以上</string>
+  <string name="learning_ticket_budget_options_range">%1$s - %2$s</string>
+  <string name="appointment_cancel_reason_title">取消原因</string>
+  <string name="timezone_selection_title">偵測到時區改變</string>
+  <string name="timezone_selection_primary_body">您要同步更新您的帳戶時區嗎\?
+收到上課通知的時間或其他人看到您所在時區將會改變!</string>
+  <string name="timezone_selection_secondary_body">選擇您所在或鄰近位置的時區</string>
+  <string name="timezone_selection_pimary_action">更新</string>
+  <string name="timezone_selection_secondary_action">不自動同步帳戶時區</string>
+  <string name="timezone_reject_title">確認不自動更新帳戶時區</string>
+  <string name="timezone_reject_primary_body">當您選擇「不自動更新時區」，課表扔會自動更新到新時區，但您可能會在錯誤的時間收到上課通知</string>
+  <string name="timezone_reject_secondary_body">為確保您的正確時間收到上課通知，我們強烈建議您允許自動同步裝置時區唷!</string>
+  <string name="timezone_reject_pimary_action">返回上一步</string>
+  <string name="timezone_reject_secondary_action">確認不再自動更新</string>
+  <string name="timezone_auto_update">自動更新帳戶時區</string>
+  <string name="timezone_auto_update_confirm">已確認自動更新時區</string>
+  <string name="timezone_auto_update_reject">已取消自動更新時區</string>
+  <string name="timezone_cancel_warning">注意：若您選擇『不自動同步』，您的課表時間仍將自動同步到新的時區，以確保您預約到正確的課程時段。</string>
+  <string name="course_purchase_info_title">100% 課堂保障</string>
+  <string name="course_purchase_info_body">課程未達您的預期\? 未完成課堂可直接換購其他教師</string>
+  <string name="chatroom_course_create_customized_course_button">新增方案</string>
+  <string name="create_customized_course_page_title">編輯客製化價格</string>
+  <string name="create_customized_course_course_name_title">課程名稱</string>
+  <string name="create_customized_course_course_name_hint">例：英文寫作課</string>
+  <string name="create_customized_course_subject_title">科目</string>
+  <string name="create_customized_course_course_count_title">堂數</string>
+  <string name="create_customized_course_course_price_title">單價（USD）</string>
+  <string name="create_customized_course_course_duration_title">課時</string>
+  <string name="create_customized_course_course_duration_item_formatted">%s分鐘</string>
+  <string name="create_customized_course_course_spinner_placeholder">請選擇</string>
+  <string name="chatroom_teacher_info_hint">提示：點擊教師個人頁面可以了解更多內容</string>
+  <string name="contact_teacher_intro_title">先回答幾個問題，
+讓我知道您的程度和學習需求</string>
+  <string name="chat_user_title_course_package_list">課堂包列表</string>
+  <string name="course_package_subtitle_formatted" formatted="false">已完成：%d/%d</string>
+  <string name="course_package_state_active">進行中</string>
+  <string name="course_package_state_refund">已終止</string>
+  <string name="course_package_state_completed">已完成</string>
+  <string name="course_package_state_expired">已過期</string>
+  <string name="course_package_detail_appointment_not_yet_scheduled">尚未預約</string>
+  <string name="course_package_detail_appointment_info_formatted" formatted="false">第 %d 堂：%s</string>
+  <string name="course_package_detail_state_completed_formatted">已完成 (%d)</string>
+  <string name="course_package_detail_state_incompleted_formatted">未完成 (%d)</string>
+  <string name="course_package_detail_state_refund_formatted">已退款 (%d)</string>
+  <string name="teacher_common_functions_title">教師常用功能</string>
+  <string name="control_panel_view_teacher_self_profile">查看教師個人頁</string>
+  <string name="teacher_self_profile_selection_title">選擇個人頁版本</string>
+  <string name="teacher_profile_subject_title_formatted">%s科 教師個人頁</string>
+  <string name="teacher_profile_language_version_formatted">%s版</string>
+  <string name="ai_dispatch_tooltip_title">系統推薦的老師私訊您囉!</string>
+  <string name="ai_dispatch_tooltip_body">真人老師在線上，查看訊息與老師討論您的需求</string>
+  <string name="dispatch_complete_description">已為您尋找合適的教師
+稍後推薦教師將會主動私訊您
+有任何問題跟需求都能與教師討論X</string>
+  <string name="student_list">學生列表</string>
+  <string name="student_list_filter_all">全部學生</string>
+  <string name="student_list_filter_private_booked">正式課已預約</string>
+  <string name="student_list_filter_private_not_booked">正式課未預約</string>
+  <string name="student_list_filter_no_repurchase_after_private">正式課未續購</string>
+  <string name="student_list_filter_trial_booked">體驗課已預約</string>
+  <string name="student_list_filter_trial_not_booked">體驗課未預約</string>
+  <string name="student_list_filter_no_purchase_after_trial">體驗課未續購</string>
+  <string name="sdudent_state_completed_formatted">已完成 %d</string>
+  <string name="sdudent_state_reserved_formatted">已預約 %d</string>
+  <string name="sdudent_state_non_reserved_formatted">未預約 %d</string>
+  <string name="no_data">沒有資料</string>
+  <string name="suggest_update_entrance">下載新版本應用程式</string>
+  <string name="force_update_title">版本更新</string>
+  <string name="force_update_body">版本過低，請更新以享有最新功能和更好的使用體驗！</string>
+  <string name="force_update_action">立即更新</string>
+  <string name="search">搜尋</string>
+  <string name="booking_course_unbooked">未預約：%d</string>
+  <string name="filter_popular_group_name">熱門</string>
+  <string name="filter_clear_all">全部清除</string>
+  <string name="filter_top_bar">篩選</string>
+  <string name="filter_apply">套用</string>
+  <string name="filter_native_option">母語人士</string>
+  <string name="learning_ticket_entry_student_old">我是學生，我想找適合我的教師</string>
+  <string name="learning_ticket_entry_teacher_old">我是教師，我想找適合我的學生</string>
+  <string name="chat_message_file_expired">已過期</string>
+  <string name="chat_message_sending">傳送中...</string>
+  <string name="file_download_saved">已儲存</string>
+  <string name="file_download_failed">下載失敗，請再試一次</string>
+  <string name="file_send_failed_retry">部分檔案無法傳送，請再試一次。</string>
+  <string name="file_send_failed_oversize">檔案太大，每次最多傳送 %d MB檔案。</string>
+  <string name="file_downloading">下載中...</string>
+  <string name="survey_entry_title_satisfaction">你有多滿意 AmazingTalker \?</string>
+  <string name="teacher_wall_default_english">英文</string>
+  <string name="continue_with_google">使用 Google 繼續</string>
+  <string name="continue_with_facebook">使用 Facebook 繼續</string>
+  <string name="sign_in_large_text">歡迎回來！</string>
+  <string name="sign_up_large_text">立即註冊，開始學習！</string>
+  <string name="course_package_view_all">全部</string>
+  <string name="sign_up_later">稍後註冊</string>
+  <string name="sign_up_guest_temp_name">輸入姓名，立即開始！</string>
+  <string name="system_notification_hint_text">請啟用推播以便接收訊息與課程通知。 現在開啟</string>
+  <string name="system_notification_hint_action">現在開啟</string>
+</resources>

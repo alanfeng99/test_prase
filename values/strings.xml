@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string-array name="appointment_before_start_button">
+    <item>Upcoming</item>
+    <item>Cancel</item>
+    <item>Reschedule</item>
+  </string-array>
+  <string-array name="appointment_completed_button_student">
+    <item>Write a feedback</item>
+    <item>Report Issue</item>
+  </string-array>
+  <string-array name="appointment_completed_button_student_comment_student">
+    <item>Book next lesson</item>
+    <item>Completed</item>
+  </string-array>
+  <string-array name="appointment_completed_button_teacher">
+    <item>Complete</item>
+    <item>Report Issue</item>
+  </string-array>
+  <string-array name="appointment_disputing_button_action_student">
+    <item>Go to Class</item>
+    <item>Agree to the solution</item>
+  </string-array>
+  <string-array name="appointment_disputing_button_action_teacher">
+    <item>Go to Class</item>
+    <item>Re-select a solution</item>
+  </string-array>
+  <string-array name="appointment_disputing_button_reported_student">
+    <item>Go to Class</item>
+    <item>Issue Reported</item>
+  </string-array>
+  <string-array name="appointment_disputing_button_reported_teacher">
+    <item>Go to Class</item>
+    <item>Select a solution</item>
+  </string-array>
+  <string-array name="appointment_into_class_button">
+    <item>Go to Class</item>
+    <item>Report Issue</item>
+  </string-array>
+  <string-array name="appointment_waiting_accept_button_teacher">
+    <item>Accept</item>
+    <item>Reject</item>
+  </string-array>
+  <string-array name="leave_review_star_texts">
+    <item>Poor</item>
+    <item>Fair</item>
+    <item>Average</item>
+    <item>Good</item>
+    <item>Excellent</item>
+  </string-array>
+  <string-array name="teacher_profile_faq_book">
+    <item>After buying courses, you can book them according to the teacher’s schedule.</item>
+    <item>If “Instant Tutoring” shows on the teacher’s profile, you can book the lesson 30 minutes after the current time.</item>
+    <item>If the teacher is not online, the next available class cannot be booked until 24 hours afterward.</item>
+  </string-array>
+  <string-array name="teacher_profile_faq_duration">
+    <item>The duration of a trial session is 25 minutes.</item>
+    <item>The duration of a private session is 50 minutes.</item>
+    <item>If you purchase more than 5 sessions, you will receive a discount (according to the price the teacher set).</item>
+  </string-array>
+  <string-array name="teacher_profile_faq_instructions">
+    <item>Enter the website 10 minutes before the class starts. Click “My Lessons” to find your class, click “Go to class”, and then you will be in the classroom on ZOOM!</item>
+    <item>You can use ZOOM for classes both on your phone and computer. Please download ZOOM in advance if you choose to use your phone for the class.</item>
+  </string-array>
+  <string-array name="teacher_profile_faq_refund">
+    <item>Please click “Report Issue” if you encountered any problems, and the teacher will determine either reschedule or refund afterward.</item>
+    <item>If the teacher doesn’t respond the issue, we will provide a full refund as AT credits for you.</item>
+  </string-array>
+  <string name="common_button_auth_submit">Send</string>
+  <string name="common_button_submit">Submit</string>
+  <string name="common_button_cancel">Cancel</string>
+  <string name="common_button_accept">Accept</string>
+  <string name="common_button_reject">Reject</string>
+  <string name="common_no_data">No Data</string>
+  <string name="common_none">None</string>
+  <string name="common_trial_session">Trial Session</string>
+  <string name="common_private_session">Private Session</string>
+  <string name="common_interview">Interview</string>
+  <string name="student">Student</string>
+  <string name="teacher">Teacher</string>
+  <string name="share">Share</string>
+  <string name="anonymous">Anonymous</string>
+  <string name="days">%d Days</string>
+  <string name="welcome_subtitle">Learn a language like making new friends</string>
+  <string name="intro_hello_title">Hi</string>
+  <string name="intro_hello_subtitle">Lets have a quick look at how to learn on AmazingTalker</string>
+  <string name="intro_find_title">Find a tutor</string>
+  <string name="intro_find_subtitle">and tell her/him what do you want her/him to help</string>
+  <string name="intro_book_title">Book a lesson</string>
+  <string name="intro_book_subtitle">Book a lesson at your preferred time</string>
+  <string name="intro_lesson_title">Face-to-face video lesson</string>
+  <string name="intro_lesson_subtitle">Start your 1-on-1 online lesson</string>
+  <string name="intro_start_btn">Get Started</string>
+  <string name="intro_i_know">I get it !</string>
+  <string name="login_phone_login">Sign In with Phone</string>
+  <string name="login_email_login">Sign In with Email</string>
+  <string name="login_facebook_login">Sign In with Facebook</string>
+  <string name="login_google_login">Sign In with Google</string>
+  <string name="login_phone_sign_up">Sign Up with Phone</string>
+  <string name="login_email_sign_up">Sign Up with Email</string>
+  <string name="login_facebook_sign_up">Sign Up with Facebook</string>
+  <string name="login_google_sign_up">Sign Up with Google</string>
+  <string name="login_show_more">Show more</string>
+  <string name="login_other_auth">or</string>
+  <string name="login_name_hint">Name</string>
+  <string name="login_email">Email</string>
+  <string name="login_phone">Phone number</string>
+  <string name="login_password_hint">Password (at least 8 characters)</string>
+  <string name="login_password_confirmed_hint">Re-enter password</string>
+  <string name="login_forget">Forgot Password\?</string>
+  <string name="login_has_not_registered_hint">Not a member yet\?</string>
+  <string name="login_has_not_registered_btn">Sign Up</string>
+  <string name="login_already_registered_hint">Already a member\?</string>
+  <string name="login_already_registered_btn">Log in</string>
+  <string name="login_terms_of_use">By clicking Sign Up, you agree to our %s.</string>
+  <string name="login_terms_of_use_click">Terms and Condition, Privacy Policy.</string>
+  <string name="login_action_login">Log in</string>
+  <string name="login_action_sign_up">Sign up</string>
+  <string name="login_title_email_login">Login</string>
+  <string name="login_title_phone_login">Continue with Phone</string>
+  <string name="login_title_email_register">Sign up</string>
+  <string name="login_title_phone_register">Sign up with phone</string>
+  <string name="login_fails">Login failed, reason: %s</string>
+  <string name="learning_ticket_entry_title">Welcome to AmazingTalker!</string>
+  <string name="learning_ticket_entry_subtitle">Lets get yourself the best-fit tutor!</string>
+  <string name="learning_ticket_entry_student">Find a tutor</string>
+  <string name="learning_ticket_entry_teacher">Become a teacher</string>
+  <string name="learning_ticket_btn_next">Next</string>
+  <string name="learning_ticket_btn_submit">Submit</string>
+  <string name="learning_ticket_auxiliary_no">No</string>
+  <string name="learning_ticket_auxiliary_yes">Yes</string>
+  <string name="learning_ticket_no_data">No Data</string>
+  <string name="learning_ticket_notification">One more step! Allow notification to get notified when we find the best tutor for you.</string>
+  <string name="learning_ticket_allow">Allow</string>
+  <string name="learning_ticket_give_up">I give up</string>
+  <string name="verify_phone_title">Verification code</string>
+  <string name="verify_phone_description">The verification code has been sent to %s. Please enter the 6-digits code.</string>
+  <string name="verify_phone_count_down" formatted="false">Please verify in  %02d:%02d</string>
+  <string name="verify_phone_not_received">not yet received\?</string>
+  <string name="verify_phone_resend">Send again</string>
+  <string name="forgot_password_send_email">A password reset email has been sent. Please check your Email.</string>
+  <string name="forgot_password_send_phone">A password reset message has been sent. Please check your SMS.</string>
+  <string name="main_header_text">Language to learn\?</string>
+  <string name="main_header_tutors">Find Tutors</string>
+  <string name="main_bottom_navi_visit">Browse</string>
+  <string name="main_bottom_navi_dispatch">AI Matching</string>
+  <string name="main_bottom_navi_notify">Notifications</string>
+  <string name="main_bottom_navi_message">Messages</string>
+  <string name="main_bottom_navi_account">Account</string>
+  <string name="control_panel_title">Your Lessons</string>
+  <string name="control_panel_empty_notice">You don\'t have any upcoming lessons.</string>
+  <string name="control_panel_booking">Book Now</string>
+  <string name="control_panel_calendar">Calendar</string>
+  <string name="control_panel_group_class">Group Lessons</string>
+  <string name="control_panel_need_confirm">Request not confirmed</string>
+  <string name="control_panel_need_complete">Not yet complete</string>
+  <string name="control_panel_leave_review">Rate the lesson</string>
+  <string name="control_panel_in_progress">Enter the classroom</string>
+  <string name="control_panel_vip_interview">Demo Class</string>
+  <string name="control_panel_interview_member">Detail</string>
+  <string name="appointment_date_format_pattern">yyyy / MM / dd  EEEE</string>
+  <string name="appointment_time_format_pattern">hh:mm a</string>
+  <string name="appointment_send_message">Send Message</string>
+  <string name="appointment_password">Password: %s</string>
+  <string name="appointment_download">Download Lesson Video</string>
+  <string name="appointment_status">Status</string>
+  <string name="appointment_feedback">Feedback</string>
+  <string name="appointment_report_by_student">Student has reported</string>
+  <string name="appointment_report_by_teacher">Teacher has reported</string>
+  <string name="appointment_solution">Solution</string>
+  <string name="appointment_summary">Summary</string>
+  <string name="appointment_homework">Homework</string>
+  <string name="appointment_student_feedback">Student Feedback</string>
+  <string name="appointment_no_review">(No Review)</string>
+  <string name="appointment_contact_customer_service">click here for our customer service</string>
+  <string name="appointment_get_free_lesson">Get a free lesson from %s</string>
+  <string name="appointment_get_free_lesson_title">Get a FREE 50-mins lesson from %s</string>
+  <string name="appointment_get_free_lesson_content">Give a 25-mins FREE Trial Lesson from %1$s to your friends. When your friend purchases 5 lessons or more, and successfully completes the 1st lesson, you will receive a FREE 50-min lesson from %2$s as a reward. Refer a friend to receive a free lesson from %3$s with %4$s learning need today!</string>
+  <string name="appointment_get_free_lesson_invite">Invite Friends</string>
+  <string name="appointment_get_free_lesson_invite_hint">Enter email address</string>
+  <string name="appointment_get_free_lesson_send_invitation">Send Invitation</string>
+  <string name="appointment_get_free_lesson_share_link">Share Link</string>
+  <string name="appointment_get_free_lesson_copy_link">Copy Link</string>
+  <string name="appointment_get_free_lesson_invite_success">Send Invitation Success.</string>
+  <string name="appointment_get_free_lesson_copied">The Code is Copied.</string>
+  <string name="appointment_student">Student</string>
+  <string name="appointment_teacher">Teacher</string>
+  <string name="appointment_issue_was_absent">%s is absent without notice</string>
+  <string name="appointment_issue_related_technical_difficulties">%s \'s connection or technical problems</string>
+  <string name="appointment_issue_felt_ill">%s is ill</string>
+  <string name="appointment_issue_took_a_personal_leave">%s is taking a personal leave</string>
+  <string name="appointment_issue_other">Other %s-related problems</string>
+  <string name="appointment_action_reset_lesson_to_unscheduled">Allow your student to reschedule</string>
+  <string name="appointment_action_give_the_student_a_100_percent_refund">100% refund : CANNOT reschedule</string>
+  <string name="appointment_action_give_the_student_a_50_percent_refund">50% refund : CANNOT reschedule</string>
+  <string name="appointment_action_mark_lesson_as_completed">NO refund : Mark lesson as completed</string>
+  <string name="appointment_cancel_appointment">Cancel</string>
+  <string name="appointment_cancel_reason">Please explain why you are unable to attend the session. If you would like to reschedule, please suggest a more convenient time.</string>
+  <string name="appointment_waiting_accept_description_interview">Mentor interview request pending.</string>
+  <string name="appointment_waiting_accept_description_student">The session request has been sent out. Teacher has to reply the request before %s. The session will not be scheduled successfully until the teacher has confirmed it.</string>
+  <string name="appointment_waiting_accept_description_teacher">Please reply the request before %s.</string>
+  <string name="appointment_waiting_accept_button_student">Cancel</string>
+  <string name="appointment_waiting_accept_status">Await Confirmation</string>
+  <string name="appointment_confirm_expired_description_student">The session request is expired, and the system has returned back this session. Please enter Calendar page to reschedule.</string>
+  <string name="appointment_confirm_expired_description_teacher">The session request is expired. Please remind your student to reschedule it again. Also, please reply the session request in 24 hours next time.</string>
+  <string name="appointment_confirm_expired_button">Expired</string>
+  <string name="appointment_confirm_expired_status">Expired</string>
+  <string name="appointment_before_start_description">The “Go to class” button will appear on the page 10 minutes prior to the class. If you would like to cancel, please do so within 12 hours prior to your lesson.</string>
+  <string name="appointment_before_start_description_zoom_intro">Sessions are conducted via Zoom, a video calling app. Zoom will be installed and launched automatically by clicking the “Go to class” button.</string>
+  <string name="appointment_before_start_description_student_group">Group lesson cannot be canceled or rescheduled by students. If you cannot attend the lesson, please download the recorded video of the lesson within 24 hours after the lesson. After 24 hours, the video will be removed by the system automatically. Tutors have the final decision of the time of lessons. If you have any question,  please contact your tutors directly.</string>
+  <string name="appointment_before_start_description_teacher_group">If you cannot attend the lesson, please reschedule 12 hours prior to the lesson starts. System will update the calendar and notify all students. System will record a video for each group lesson. If a student cannot attend the lesson, please remind him/her to download the video within 24 hours after the lesson.</string>
+  <string name="appointment_before_start_description_student_interview">Your interview is about to start. Once you finish, the mentor has 24 hours to decide and invite you to join the team.</string>
+  <string name="appointment_before_start_description_teacher_interview">Your interview is about to start. You have to decide whether to invite the teacher or not within 24 hours.</string>
+  <string name="appointment_before_start_description_student_vip">If you would like to reschedule...
+12 hours in advance, please click the \"Cancel\" button below. 
+within 12 hours, please let the teacher know you\'re not available. When the lesson starts, click the \"Write Interview Report\" button below.\"</string>
+  <string name="appointment_before_start_status">Scheduled</string>
+  <string name="appointment_cancel_description_by_student">This lesson has been cancelled by student.</string>
+  <string name="appointment_cancel_description_by_teacher">This lesson has been cancelled by teacher.</string>
+  <string name="appointment_cancel_button">Cancel</string>
+  <string name="appointment_cancel_status">Cancelled</string>
+  <string name="appointment_into_class_description">Please come 5-10 minutes prior to the class to prepare. If teacher or student doesn’t show up, please try to message them to see if they are online. If they are late for 5-10 minutes, click “Report Issue”, and the teacher will determine the appropriate resolution.</string>
+  <string name="appointment_into_class_description_student_group">Please come 5 minutes prior to the class. If you are not able to attend the lesson, please download the recorded video after the class in 24 hours.</string>
+  <string name="appointment_into_class_description_teacher_group">Please come 5 minutes prior to the class. If any of your student is not able to attend the lesson, please remind him/her to download the recorded video after the class in 24 hours.</string>
+  <string name="appointment_into_class_description_student_interview">Your interview is about to start. Once you finish, the mentor has 24 hours to decide and invite you to join the team.</string>
+  <string name="appointment_into_class_description_teacher_interview">You have to decide whether to invite the teacher or not within 24 hours. (Go to the teacher’s profile to invite them.)</string>
+  <string name="appointment_into_class_description_student_vip">Time to go to class! Please enter the classroom in advance, and send a message first if the teacher doesn\'t show up. 
+Click the \"Write Interview Report\" button below when you finish the lesson or have any problem.</string>
+  <string name="appointment_into_class_write_interview_report_button">Write interview report</string>
+  <string name="appointment_into_class_status">Scheduled</string>
+  <string name="appointment_disputing_description_report_by_student_student">The session issue has been reported. Teacher will select a proper solution shortly.</string>
+  <string name="appointment_disputing_description_report_by_student_teacher">The session issue has been reported. Teacher has to select a proper solution shortly.</string>
+  <string name="appointment_disputing_description_teacher_take_action_student">Teacher has replied the lesson issue.  If you don’t agree with the resolution, please click here for our customer service. If you don\'t confirm the solution before %s, the system will default to solved.</string>
+  <string name="appointment_disputing_description_teacher_take_action_teacher">Teacher has replied the lesson issue. Await student’s confirmation. If student doesn\'t confirm the solution before %s, the system will default to solved.</string>
+  <string name="appointment_disputing_status">In Dispute</string>
+  <string name="appointment_dispute_resolved_button_rescheduled">Session returned</string>
+  <string name="appointment_dispute_resolved_button_refund">Refunded</string>
+  <string name="appointment_dispute_resolved_status_rescheduled">Rescheduled</string>
+  <string name="appointment_dispute_resolved_status_refund">Refunded</string>
+  <string name="appointment_interview_description_student">The lesson has been reported. Please send another request.</string>
+  <string name="appointment_interview_description_teacher">The lesson has been reported. Please wait for another request.</string>
+  <string name="appointment_completed_description_student">Please give feedback on your lesson. If you encountered any problems, please click “Report Issue” to notify us.</string>
+  <string name="appointment_completed_description_teacher">Please press \"Complete\" button after finishing the session. If you encountered any problems, please click “Report Issue” to notify us.</string>
+  <string name="appointment_completed_description_student_comment_student">Please give feedback on your lesson. If you encountered any problem, please click here for our customer service.</string>
+  <string name="appointment_completed_description_student_comment_teacher">Please \"complete\" the lesson. If you encountered any problem, please click here for our customer service.</string>
+  <string name="appointment_completed_description_mentoring_interview_end_student">Please go to the mentoring program and check</string>
+  <string name="appointment_completed_description_mentoring_interview_end_teacher">You have 24hrs to invite a teacher to join your team. You can invite a teacher to join your team from his/her profile page.</string>
+  <string name="appointment_completed_description_teacher_interview">Please press \"Complete\" button after finishing the session. If you encountered any problems, please click here for our customer service.</string>
+  <string name="appointment_completed_button_student_comment_teacher">Complete</string>
+  <string name="appointment_completed_button_teacher_comment_student">Write a feedback</string>
+  <string name="appointment_completed_button_teacher_comment_teacher">Completed</string>
+  <string name="appointment_completed_button_both_comment_student">Book next lesson</string>
+  <string name="appointment_completed_button_both_comment_teacher">@string/appointment_completed_button_teacher_comment_teacher</string>
+  <string name="appointment_completed_button_reported_student">Issue Reported</string>
+  <string name="appointment_completed_button_reported_teacher">Select a solution</string>
+  <string name="appointment_completed_button_action_student">Agree to the solution</string>
+  <string name="appointment_completed_button_action_teacher">Re-select the solution</string>
+  <string name="appointment_completed_status_uncompleted">Scheduled</string>
+  <string name="appointment_completed_status_completed">Completed</string>
+  <string name="appointment_completed_status_interview_accepted">Accepted</string>
+  <string name="appointment_completed_wait_until_vip_rate">Please click “complete” after the interviewer rates the lesson</string>
+  <string name="appointment_completed_button_interview_agree">Agree</string>
+  <string name="appointment_can_be_rescheduled_reported">Reported</string>
+  <string name="appointment_can_be_rescheduled_agreed">Agreed</string>
+  <string name="appointment_interview_rating_how_about_class">Rate teacher’s performance</string>
+  <string name="dispute_optional_reason_hint">At least 10 characters needed</string>
+  <string name="dispute_support_title">If you have problems using zoom, please %s first.</string>
+  <string name="dispute_support_title_clickable">enter the test link</string>
+  <string name="dispute_support_message">Upload a screenshot or a video to our customer service so we can solve the problem for you!</string>
+  <string name="leave_review_satisfaction_title">Select your level of satisfaction</string>
+  <string name="leave_review_satisfaction_subtitle">Please click on the star to rate the teacher. If not, the system\'s default is five stars.</string>
+  <string name="leave_review_teaching_style_title">Select tags that meet your teacher\'s teaching styles (optional)</string>
+  <string name="leave_review_teaching_style_subtitle">You can choose more than one answer.</string>
+  <string name="leave_review_teaching_feedback_title">Please write down a feedback for your teacher</string>
+  <string name="leave_review_teaching_feedback_subtitle">Highly recommend using at least 1–2 lines to review the class, it will help the teacher understand your studying situation.</string>
+  <string name="leave_review_teaching_feedback_anonymous">Show this review at Teacher\'s profile page in PRIVATE.</string>
+  <string name="leave_review_studying_feedback_title">Write a feedback to your student</string>
+  <string name="leave_review_group_studying_feedback_title">Write a feedback to %s</string>
+  <string name="leave_review_next_session_title">Please remind your student what to preview before the next lesson</string>
+  <string name="leave_review_studying_subtitle">The feedback will be sent to your student.</string>
+  <string name="leave_review_hint">Please fill in…</string>
+  <string name="leave_interview_review_recommend_hint">This will help us learn more about his/her lesson and appear on his/her profile page</string>
+  <string name="leave_interview_review_not_recommend_hint">This will help us learn more about his/her lesson. The teacher will not see it</string>
+  <string name="calendar_title">Calendar</string>
+  <string name="calendar_no_lesson">No lessons found</string>
+  <string name="booking_course_more">More</string>
+  <string name="booking_course_expired">Expiration date: %s</string>
+  <string name="booking_course_occupied">You have a lesson %s</string>
+  <string name="booking_course_dialog_previous">Prev</string>
+  <string name="booking_course_dialog_confirm">Schedule</string>
+  <string name="booking_course_success">Scheduling successful</string>
+  <string name="booking_course_expired_text">This package has expired, please contact your teacher to extend the lesson(s) for you.</string>
+  <string name="booking_course_request_extend">Request</string>
+  <string name="teacher_list_advance_search_specialty">Courses</string>
+  <string name="teacher_list_advance_search_auxiliary">Also speaks</string>
+  <string name="teacher_list_advance_search_budget">Price</string>
+  <string name="teacher_list_advance_search_country">Country</string>
+  <string name="teacher_list_budget_options_below">Below %s</string>
+  <string name="teacher_list_budget_options_above">Above %s</string>
+  <string name="teacher_list_budget_options_range">%1$s - %2$s</string>
+  <string name="teacher_list_sort">Sort</string>
+  <string name="teacher_list_reviews">・%s Reviews</string>
+  <string name="teacher_suggested_list_reviews">%s Reviews</string>
+  <string name="teacher_list_private_lesson_duration">%s / 50 mins</string>
+  <string name="teacher_list_filter_budget_below">Below %s</string>
+  <string name="teacher_list_filter_budget_above">Above %s</string>
+  <string name="teacher_list_filter_budget_range">%1$s - %2$s</string>
+  <string name="teacher_list_sort_current_sorting">Currently sort by</string>
+  <string name="teacher_list_sort_instant_recommendation">Recommendation</string>
+  <string name="teacher_list_sort_outstanding_tutors_first">Outstanding tutors first</string>
+  <string name="teacher_list_sort_new_tutors_first">New tutors first</string>
+  <string name="teacher_list_sort_low_lesson_price_first">Low lesson price first</string>
+  <string name="teacher_list_sort_more_lessons_completed_first">More lessons completed first</string>
+  <string name="teacher_list_sort_more_comments_first">More comments first</string>
+  <string name="messenger_search_bar_hint">Search by name</string>
+  <string name="messenger_no_message">You Don\'t Have Message Now</string>
+  <string name="messenger_filter_role_title">Filter</string>
+  <string name="messenger_filter_role_all">All</string>
+  <string name="messenger_filter_role_teacher">My teachers</string>
+  <string name="messenger_filter_role_student">My students</string>
+  <string name="messenger_filter_role_member">My Team</string>
+  <string name="messenger_filter_option_private_lesson">Active</string>
+  <string name="messenger_filter_option_trial_lesson">Trial</string>
+  <string name="messenger_filter_option_recommend">Recommended</string>
+  <string name="messenger_filter_option_appointment_accepted">Reserved</string>
+  <string name="messenger_filter_option_can_attend_story_contest">Eligible to enter contest</string>
+  <string name="messenger_filter_option_group_lesson">Group Lessons</string>
+  <string name="messenger_filter_option_private_member">Team members</string>
+  <string name="messenger_filter_option_trial_member">New teachers in contact</string>
+  <string name="chat_input_hint">Say something…</string>
+  <string name="chat_input_hint_blocked">You can\'t reply to this conversation</string>
+  <string name="chat_no_message">No Messages</string>
+  <string name="chat_user_title_information">Information</string>
+  <string name="chat_user_title_teach">Teach</string>
+  <string name="chat_user_title_learn">Learn</string>
+  <string name="chat_user_title_scheduled">Scheduled</string>
+  <string name="chat_user_title_completed">Completed</string>
+  <string name="chat_user_title_unscheduled">Unscheduled</string>
+  <string name="chat_user_title_last_lesson">Last lesson</string>
+  <string name="chat_user_title_demand">Tickets</string>
+  <string name="chat_user_title_block_message">Block</string>
+  <string name="chat_user_view">View</string>
+  <string name="learning_tickets_lang_ticket">%s ticket</string>
+  <string name="learning_tickets_budget">Budget</string>
+  <string name="learning_tickets_age">Age</string>
+  <string name="learning_tickets_purpose">Purpose</string>
+  <string name="learning_tickets_level">Level</string>
+  <string name="learning_tickets_weakness">Weakness</string>
+  <string name="learning_tickets_note">Note</string>
+  <string name="chat_message_trial_ask">
+If this is the first time of your lesson here, you can refer this article to know how to have class.
+https://amazingtalker.elevio.help/en/articles/276-how-do-i-start-a-lesson</string>
+  <string name="chat_message_student_recommend">%s is experienced in teaching</string>
+  <string name="chat_message_button_open_time_slot">Open a time slot %s</string>
+  <string name="chat_message_button_open_book">Book %s</string>
+  <string name="chat_message_button_purchase">Purchase</string>
+  <string name="chat_message_button_courses">Courses</string>
+  <string name="chat_message_button_discount">Discount</string>
+  <string name="chat_message_button_custom_messages">Sample Messages</string>
+  <string name="chat_message_next_lesson">Next lesson: %s</string>
+  <string name="chat_message_schedule_title">Lesson request</string>
+  <string name="chat_message_schedule_select_course">Select a package</string>
+  <string name="chat_message_schedule_select_hint">Select a package</string>
+  <string name="chat_message_schedule_select_date_hint">Select a date</string>
+  <string name="chat_message_schedule_select_time_hint">Select a time</string>
+  <string name="chat_message_schedule_teacher_timezone">Teacher’s local time（GMT：%s:00）</string>
+  <string name="chat_message_schedule_student_timezone">Student’s local time（GMT：%s:00）</string>
+  <string name="chat_message_schedule_student_time_hint">Select a lesson time</string>
+  <string name="chat_message_courses_purchase">Purchase</string>
+  <string name="chat_message_courses_expired">Expired</string>
+  <string name="chat_message_courses_expired_date">Expiry Date: %s</string>
+  <string name="chat_message_courses_remaining_time">Remaining Time: %1$02d : %2$02d : %3$02d</string>
+  <string name="chat_message_courses_program">%1$s: %2$sLessons x %3$s (%4$s mins)</string>
+  <string name="chat_message_group_class_program">%1$s / %3$s mins lesson * %2$s</string>
+  <string name="chat_message_discount_time_left">Time remaining: %s</string>
+  <string name="chat_message_discount_min_value">Minimum charge: %s</string>
+  <string name="chat_message_discount_used">Used</string>
+  <string name="chat_message_direct_booking_request_title">Teacher sent a lesson request</string>
+  <string name="chat_message_direct_booking_request_timezone_display">Time zone: %1$s %2$s</string>
+  <string name="chat_message_direct_booking_request_accepted">Accepted</string>
+  <string name="chat_message_direct_booking_request_rejected">Rejected</string>
+  <string name="chat_message_direct_booking_request_await">Awaiting</string>
+  <string name="chat_message_direct_booking_request_available">Expiry time: %1$02d : %2$02d : %3$02d</string>
+  <string name="chat_message_course_extension_title">Request for extension of package</string>
+  <string name="chat_message_course_extension_remaining_count">Lessons: %s lesson(s)</string>
+  <string name="chat_message_course_extension_expired">Expiry date: %s</string>
+  <string name="chat_message_course_extension_extended">Extended</string>
+  <string name="chat_message_course_extension_extend">Extend</string>
+  <string name="chat_message_extend_package_title">Extend Package</string>
+  <string name="chat_message_extend_package_type">Type</string>
+  <string name="chat_message_extend_package_student">Student</string>
+  <string name="chat_message_extend_package_lesson">Lessons</string>
+  <string name="chat_message_extend_package_expired_date">Expired</string>
+  <string name="chat_message_extend_package_extend_to">Extend</string>
+  <string name="chat_message_extend_package_note">* Teachers will not get paid for uncompleted lessons once the package has expired.</string>
+  <string name="chat_message_extend_package_update">Submit</string>
+  <string name="chat_message_popup_lessons">%s lessons</string>
+  <string name="chat_message_popup_minutes">%s min</string>
+  <string name="chat_message_popup_discount_title">Give discount</string>
+  <string name="chat_message_popup_discount_10usd_by_self_hand_title">Give %s a $10 discount</string>
+  <string name="chat_message_popup_discount_10usd_by_self_hand_desc">No minimum purchase, valid for 24 hours</string>
+  <string name="chat_message_popup_discount_10usd_with_limit_title">Give %s a $10 discount</string>
+  <string name="chat_message_popup_discount_10usd_with_limit_desc">Has minimum purchase $100 USD, valid for 24 hours</string>
+  <string name="chat_message_popup_discount_5usd_with_limit_title">Give %s a $5 discount</string>
+  <string name="chat_message_popup_discount_5usd_with_limit_desc">Has minimum purchase $50 USD, valid for 24 hours</string>
+  <string name="chat_message_popup_discount_sent_successfully">Sent to %s successfully</string>
+  <string name="chat_message_popup_discount_failed_to_send">Failed to send to %s</string>
+  <string name="chat_message_popup_discount_redeem">Buy Now</string>
+  <string name="chat_message_popup_discount_expired">Expired</string>
+  <string name="chat_message_popup_discount_used">Used</string>
+  <string name="chat_message_popup_courses_title">Please Select A Course</string>
+  <string name="chat_message_popup_courses_sent_successfully">Sent successfully</string>
+  <string name="chat_message_popup_courses_failed_to_send">Failed to send</string>
+  <string name="chat_message_popup_sample_title">Sample Messages</string>
+  <string name="notify_no_notice">No Notifications.</string>
+  <string name="notify_request_no_request">No lesson requests</string>
+  <string name="notify_request_title">Lesson Request</string>
+  <string name="notify_request_initialization">Asking</string>
+  <string name="notify_request_accepted">Accepted</string>
+  <string name="notify_request_expired">Expired</string>
+  <string name="notify_request_expired_to_teacher">Expired. This record will affect your ranking on teacher\'s list.</string>
+  <string name="notify_request_rejected">Rejected</string>
+  <string name="notify_request_rejected_to_teacher">Rejected. This record will affect your teacher’s ranking.</string>
+  <string name="notify_dispute_title">Lesson Issue</string>
+  <string name="notify_dispute_check">Check</string>
+  <string name="settings_remain_course_number">lessons</string>
+  <string name="settings_at_coins">AT Credits</string>
+  <string name="settings_show_collection">Favorite tutors</string>
+  <string name="settings_coupons">Coupons</string>
+  <string name="settings_referral">Invite friends</string>
+  <string name="settings_account_setting">Account settings</string>
+  <string name="settings_teacher_active">Teacher recruiting</string>
+  <string name="settings_change_currency">Choose a currency</string>
+  <string name="settings_log_out">Log Out</string>
+  <string name="settings_current_month_income">%s earned this month</string>
+  <string name="settings_upcoming_session_count">Scheduled: %d</string>
+  <string name="settings_completed_session_count">Completed: %d</string>
+  <string name="settings_unscheduled_session_count">Unscheduled: %d</string>
+  <string name="settings_recruitment_settings">Recruitment Settings</string>
+  <string name="settings_manually_confirm_requests">Manually Confirm Requests</string>
+  <string name="settings_instant_tutoring">Instant Tutoring</string>
+  <string name="settings_recruit_students">Recruit Students</string>
+  <string name="settings_recommendation_system">Recommendation System</string>
+  <string name="settings_search_currency">Search currency</string>
+  <string name="settings_logout_confirmation">Are you sure you want to log out\?</string>
+  <string name="notification_show_label">Show</string>
+  <string name="notification_close_label">Close</string>
+  <string name="notification_reply_label">Reply</string>
+  <string name="notification_reply_hint">Input text here</string>
+  <string name="notification_request">Chances are you will miss the class and messages if you do not allow notification.  Please go to \"Settings\" → \"Notifications\" → \"Allow Notifications\"</string>
+  <string name="notification_goto_settings">Go to Settings</string>
+  <string name="inner_notification_new_recommend_student_title">【Click me to contact the new student】</string>
+  <string name="inner_notification_new_recommend_student_message">You’ve got a new student match, hurry up!</string>
+  <string name="inner_notification_cart_notice_message">The student has added you to shopping cart</string>
+  <string name="inner_notification_refund_title">Confirmation of lesson refund</string>
+  <string name="inner_notification_refund_message">Please go to Lesson Detail to confirm the refund!</string>
+  <string name="dispatch_title_learning_ticket">Learning tickets %s</string>
+  <string name="dispatch_title_training_ticket">Training tickets %s</string>
+  <string name="dispatch_talk_to_students">Say Hello to the student!</string>
+  <string name="dispatch_skip">Skip</string>
+  <string name="dispatch_character_left">%s character left.</string>
+  <string name="dispatch_save_template">Save template</string>
+  <string name="teacher_profile_sessions_completed">%1$d %2$s Sessions Completed</string>
+  <string name="teacher_profile_realtime">Instant Tutoring</string>
+  <string name="teacher_profile_can_speak">Speaks</string>
+  <string name="teacher_profile_self_introduction">Introduction</string>
+  <string name="teacher_profile_expand_self_introduction">View full introduction</string>
+  <string name="teacher_profile_group_lessons">Group Lessons</string>
+  <string name="teacher_profile_group_lessons_discount">Around 40% off compared to 1-on-1 lessons🔥 Limited discount seats!</string>
+  <string name="teacher_profile_expand_group_lessons">View full group lessons</string>
+  <string name="teacher_profile_video_intro_title">Videos</string>
+  <string name="teacher_profile_video_one_to_one">In-Class Video</string>
+  <string name="teacher_profile_video_other">Additional Video</string>
+  <string name="teacher_profile_sweet_hint">The more lessons you choose, the greater the discount is, check it down below or in the shopping cart!</string>
+  <string name="teacher_profile_available_times">Available times</string>
+  <string name="teacher_profile_view_full_schedule">View full schedule</string>
+  <string name="teacher_profile_ratings_title">%1$d %2$s course reviews</string>
+  <string name="teacher_profile_more_comments">See all %d reviews</string>
+  <string name="teacher_profile_purchase">Packages</string>
+  <string name="teacher_profile_package_label">%d lesson 50 min</string>
+  <string name="teacher_profile_resume">Résumé</string>
+  <string name="teacher_profile_experiences">Experiences</string>
+  <string name="teacher_profile_educations">Educations</string>
+  <string name="teacher_profile_certificates">Certificates</string>
+  <string name="teacher_profile_certification">Certificate Uploaded</string>
+  <string name="teacher_profile_faq">FAQ</string>
+  <string name="teacher_profile_faq_book_title">How to book</string>
+  <string name="teacher_profile_faq_duration_title">Lesson duration</string>
+  <string name="teacher_profile_faq_instructions_title">Instructions</string>
+  <string name="teacher_profile_faq_refund_title">Refund policy</string>
+  <string name="teacher_profile_badge_top_for_student_title">Top %s Popular Tutor</string>
+  <string name="teacher_profile_badge_top_for_student_desc">Recommended by lots of students on AmazingTalker!</string>
+  <string name="teacher_profile_badge_top_for_teacher_title">Top %s high income tutors</string>
+  <string name="teacher_profile_badge_top_for_teacher_desc">Earn more than US$%s in a month on AmazingTalker (Teacher can see only)</string>
+  <string name="teacher_profile_badge_hot_title">Tutor In High Demand</string>
+  <string name="teacher_profile_badge_hot_desc">Lots of students purchase courses from this tutor recently.</string>
+  <string name="teacher_profile_badge_new_title">New Teacher In High Demand</string>
+  <string name="teacher_profile_badge_new_desc">Lots of students purchased courses from this teacher</string>
+  <string name="teacher_profile_badge_ghost_title">Mysterious Tutor</string>
+  <string name="teacher_profile_badge_ghost_desc">In the past month, the tutor canceled or missed the lessons for more than 15% of the total number of lessons.</string>
+  <string name="teacher_profile_private_lesson">50min</string>
+  <string name="teacher_profile_trial_lesson">25min</string>
+  <string name="teacher_profile_booking_private">Book Private</string>
+  <string name="teacher_profile_booking_trial">Book Trial</string>
+  <string name="teacher_profile_contact_button">Contact Tutor</string>
+  <string name="teacher_profile_ask_learning_language_title">%1$s can teach %2$d languages, which language do you want to learn\?</string>
+  <string name="teacher_profile_group_completed_lessons">Completed %d lessons</string>
+  <string name="teacher_profile_group_taught_students">Taught %d students</string>
+  <string name="teacher_profile_group_date_label">%1$s to %2$s</string>
+  <string name="teacher_profile_group_registration_status">Student count ( %1$d / %2$d )</string>
+  <string name="teacher_profile_group_class_details">%2$d mins / lesson * %1$d</string>
+  <string name="teacher_profile_group_early_bird_count_down">Early Bird %1$s %2$02d : %3$02d : %4$02d</string>
+  <string name="teacher_profile_group_late_bird_count_down">Late Bird %1$s %2$02d : %3$02d : %4$02d</string>
+  <string name="teacher_ratings_title">%1$s reviews %2$d</string>
+  <string name="teacher_ratings_more_and_total">More (%d)</string>
+  <string name="teacher_ratings_more">more</string>
+  <string name="teacher_suggested">Recommended tutors</string>
+  <string name="common_see_all">See all</string>
+  <string name="update_body_display">This version of the app is outdated; please update the app</string>
+  <string name="teacher_dispatch_input_placeholder">Say Hi to this teacher and recruit him/her to join your team!</string>
+  <string name="common_blank_content">(blank)</string>
+  <string name="teacher_dispatch_template">Teacher\'s learning ticket reply template</string>
+  <string name="common_save_failure">Failed to save</string>
+  <string name="common_save_success">Saved successfully</string>
+  <string name="language_validating">Verifying text language</string>
+  <string name="service_template_formatted">Template for teaching %s</string>
+  <string name="input_minimum_restriction_formatted">%d more characters needed</string>
+  <string name="input_over_maximum_content">Too many characters</string>
+  <string name="language_restriction_formatted">Note that only %s can be entered</string>
+  <string name="language_save_formatted">Save as %s template</string>
+  <string name="language_apply_formatted">%s template applied</string>
+  <string name="template_replace_dialog_title">Do you want to overwrite the current text\?</string>
+  <string name="template_replace_dialog_body">The current text is different from the new template content. Applying this template will overwrite the current text.</string>
+  <string name="template_edit_title">Manage learning ticket reply template</string>
+  <string name="language_response_formatted">Reply in %s</string>
+  <string name="entrance_from_dispatch_footer">You can edit it at any time in the \"Manage learning ticket reply template\" in the \"Account\" section</string>
+  <string name="template_language_restrict_warning">Must respond in the language the student expects</string>
+  <string name="dispatch_training_ticket">Teacher learning ticket</string>
+  <string name="template_paste">Overwrite</string>
+  <string name="inner_notification_new_recommend_teacher_title">【Click and Contact active teacher】</string>
+  <string name="inner_notification_new_recommend_teacher_message">We have matched an active teacher to you! Please contact him/her ASAP!</string>
+  <string name="common_edit">Edit</string>
+  <string name="input_reply_placeholder_formatted">You have to use %s to reply this Learning ticket</string>
+  <string name="inject_user_name_button">Tag a name</string>
+  <string name="search_input_placeholder">Search language</string>
+  <string name="search_result_header">Suggest result</string>
+  <string name="search_empty_content">🙈 No relevant results</string>
+  <string name="search_title">What language do you want to learn\?</string>
+  <string name="search_input_placeholder_k12">Search language or subject</string>
+  <string name="search_title_k12">What language or subject do you want to learn\?</string>
+  <string name="customer_service">Customer Service</string>
+  <string name="appointment_previous_feedback">Feedback from last lesson</string>
+  <string name="appointment_feedback_view_all">All feedback</string>
+  <string name="appointment_index_formatted">Lesson %s</string>
+  <string name="inner_notification_dispatch_taken_body">Sorry, students have been contacted by other teachers, please try sooner next time. 😃</string>
+  <string name="inner_notification_dispatch_taken_title">The student has already been contacted by other tutors.</string>
+  <string name="setting_template_message">Manage template messages </string>
+  <string name="common_create">Add</string>
+  <string name="message_template_common">Frequently used </string>
+  <string name="message_template_empty_content">No template</string>
+  <string name="message_template_empty_search">No results found</string>
+  <string name="message_template_all">All templates</string>
+  <string name="message_template_add_description">Add template</string>
+  <string name="message_template_edit_description">Edit template</string>
+  <string name="message_template_edit_title_hint">Title (required)</string>
+  <string name="message_template_edit_body_hint">Message (at least 10 characters)</string>
+  <string name="message_template_edit_title_restrict">Title can\'t be empty</string>
+  <string name="message_template_edit_body_restrict">Message can\'t be under %d characters</string>
+  <string name="common_save">Save</string>
+  <string name="message_template_search">Search templates</string>
+  <string name="payment_failure">Payment failed. Please contact us for support or use an alternative payment method.</string>
+  <string name="banner_validate_title">Identity not yet verified</string>
+  <string name="banner_validate_body">Verify your identity with your real name in order to receive your AT coins, this also complies with anti-money laundering regulations.</string>
+  <string name="banner_validate_action">Verify</string>
+  <string name="banner_re_validate_title">Need to reverify identity</string>
+  <string name="banner_re_validate_body">The ID verification failed. Please reverify to withdraw your AT credits</string>
+  <string name="banner_re_validate_action">Reverify</string>
+  <string name="validate_teacher">Identity verification</string>
+  <string name="validate_country_title">Select your nationality</string>
+  <string name="validate_search_country">search country</string>
+  <string name="validate_search_language">search language</string>
+  <string name="validate_language_title">Select your primary language </string>
+  <string name="validate_scan_type_title">Select the type of ID for verification</string>
+  <string name="validate_scan_passport_or_not_title">Do you have a passport\?</string>
+  <string name="validate_scan_passport_has_passport">Yes</string>
+  <string name="validate_scan_passport_no_passport">No</string>
+  <string name="validate_scan_tw_id">Taiwanese ID card </string>
+  <string name="validate_scan_tw_passport">Taiwanese passport</string>
+  <string name="validate_scan_tw_drivers_license">Taiwanese driver license</string>
+  <string name="validate_scan_next">Next</string>
+  <string name="validate_scan_next_face_scan">Next: face scan</string>
+  <string name="validate_scan_complete">Close</string>
+  <string name="validate_start_scan_title">Prepare for the ID verification</string>
+  <string name="validate_start_scan_body">We need to verify your identity information to comply with anti-money laundering regulations. Please:
+ ‧allow access to the phone camera
+ ‧prepare to scan your passport or ID
+ ‧ prepare to scan your face</string>
+  <string name="validate_confirn_scan_content_title">Confirm document information</string>
+  <string name="validate_confirn_scan_content_single_field_body">The real name should match what is listed in the document. If it doesn\'t match, please re-enter it.</string>
+  <string name="validate_confirn_scan_content_passport_field_body">The real name should match what is listed in the passport. If it doesn\'t match, please re-enter it.</string>
+  <string name="validate_confirn_scan_single_real_name">Real name</string>
+  <string name="validate_confirn_scan_multiple_real_name">Real name: Surname</string>
+  <string name="validate_confirn_scan_multiple_given_name">Real name: Given name/Middle name</string>
+  <string name="validate_country">Nationality</string>
+  <string name="validate_scan_complete_title">The ID verification information has been submitted.</string>
+  <string name="validate_scan_complete_body">Notification will be sent after your identity has been verified, at which point you can withdraw AT credits to your bank account.</string>
+  <string name="validate_in_process">Verification information under review</string>
+  <string name="permission_denied_feature_unavailable">You\'ve rejected access permissions for AmazingTalker on your phone, so the function will be limited. Please go to your system settings to manually enable access for AmazingTalker.</string>
+  <string name="validate_id_scan_failure_message">Scanning of your ID has failed, please scan your ID again.</string>
+  <string name="formatted_timezone_display" formatted="false">* All times listed are in your local timezone: %s(%s)</string>
+  <string name="learning_ticket_budget_options_below">Below %s</string>
+  <string name="learning_ticket_budget_options_above">Above %s</string>
+  <string name="learning_ticket_budget_options_range">%1$s - %2$s</string>
+  <string name="appointment_cancel_reason_title">Reason for cancellation</string>
+  <string name="timezone_selection_title">Time zone change detected</string>
+  <string name="timezone_selection_primary_body">Do you want to update your account time zone\?
+This will change your class notification times and how others see your time zone.
+</string>
+  <string name="timezone_selection_secondary_body">Select the time zone for your location or a nearby location.</string>
+  <string name="timezone_selection_pimary_action">Update</string>
+  <string name="timezone_selection_secondary_action">Never auto synchronize </string>
+  <string name="timezone_reject_title">Are you sure that you do not want to synchronize your account\'s time zone\?</string>
+  <string name="timezone_reject_primary_body">When you select not to update your time zone automatically, the time on the calendar will still be automatically updated to the new time zone, but you may receive class notifications at the wrong time.</string>
+  <string name="timezone_reject_secondary_body">To ensure that you receive course notifications at the correct time, we strongly recommend that you automatically synchronize your device with your time zone.</string>
+  <string name="timezone_reject_pimary_action">Return to previous step</string>
+  <string name="timezone_reject_secondary_action">Confirm to stop synchronizing</string>
+  <string name="timezone_auto_update">Automatic time zone synchronization</string>
+  <string name="timezone_auto_update_confirm">Time zone update confirmed</string>
+  <string name="timezone_auto_update_reject">Cancel the time zone update</string>
+  <string name="timezone_cancel_warning">Note: If you choose not to synchronize automatically, the time on the calendar will still be automatically synchronized to the new time zone to ensure that appointments you make are set to the correct course time.</string>
+  <string name="course_purchase_info_title">100% guarantee for your classes</string>
+  <string name="course_purchase_info_body">Did the class not meet your expectations\? Classes that you have not attended yet can be exchanged for you to redeem classes from other teachers. </string>
+  <string name="chatroom_course_create_customized_course_button">Create</string>
+  <string name="create_customized_course_page_title">Edit customized prices </string>
+  <string name="create_customized_course_course_name_title">Course title</string>
+  <string name="create_customized_course_course_name_hint">e.g., Essay writing lesson</string>
+  <string name="create_customized_course_subject_title">Subject</string>
+  <string name="create_customized_course_course_count_title">Lessons</string>
+  <string name="create_customized_course_course_price_title">Price per class (USD)</string>
+  <string name="create_customized_course_course_duration_title">Duration</string>
+  <string name="create_customized_course_course_duration_item_formatted">%s mins</string>
+  <string name="create_customized_course_course_spinner_placeholder">Select a tutor and write a story</string>
+  <string name="chatroom_teacher_info_hint">Click on the teacher\'s page to learn more.</string>
+  <string name="contact_teacher_intro_title">Please answer a few questions,
+ so I can know a little more about your learning needs.</string>
+  <string name="chat_user_title_course_package_list">Package List</string>
+  <string name="course_package_subtitle_formatted" formatted="false">Completed: %d/%d</string>
+  <string name="course_package_state_active">Active</string>
+  <string name="course_package_state_refund">Terminated</string>
+  <string name="course_package_state_completed">Completed</string>
+  <string name="course_package_state_expired">Expired</string>
+  <string name="course_package_detail_appointment_not_yet_scheduled">Not yet scheduled</string>
+  <string name="course_package_detail_appointment_info_formatted" formatted="false">Lesson %d: %s</string>
+  <string name="course_package_detail_state_completed_formatted">Complete (%d)</string>
+  <string name="course_package_detail_state_incompleted_formatted">Incomplete (%d)</string>
+  <string name="course_package_detail_state_refund_formatted">Refund (%d)</string>
+  <string name="teacher_common_functions_title">Teacher tools</string>
+  <string name="control_panel_view_teacher_self_profile">View teacher\'s profile</string>
+  <string name="teacher_self_profile_selection_title">Choose Profile Version</string>
+  <string name="teacher_profile_subject_title_formatted">%s subject Teacher Profile</string>
+  <string name="teacher_profile_language_version_formatted">%s version</string>
+  <string name="ai_dispatch_tooltip_title">The recommended teacher has sent you a message!</string>
+  <string name="ai_dispatch_tooltip_body">The teacher is online now! Check your messages to discuss your needs. </string>
+  <string name="dispatch_complete_description">A teacher has been found for you!
+The teacher will send a private message to you soon.
+Any questions or requests can be discussed with the teacher.</string>
+  <string name="student_list">Student list</string>
+  <string name="student_list_filter_all">All students</string>
+  <string name="student_list_filter_private_booked">Booked formal lesson already</string>
+  <string name="student_list_filter_private_not_booked">Haven\'t booked formal lesson</string>
+  <string name="student_list_filter_no_repurchase_after_private">No repeat order after formal lesson</string>
+  <string name="student_list_filter_trial_booked">Booked trial lesson already</string>
+  <string name="student_list_filter_trial_not_booked">Haven\'t booked trial lesson</string>
+  <string name="student_list_filter_no_purchase_after_trial">No repeat order after trial lesson</string>
+  <string name="sdudent_state_completed_formatted">Completed %d</string>
+  <string name="sdudent_state_reserved_formatted">Reserved %d</string>
+  <string name="sdudent_state_non_reserved_formatted">Non-reserved %d</string>
+  <string name="no_data">No data</string>
+  <string name="suggest_update_entrance">Download the latest version of the app</string>
+  <string name="force_update_title">App update available.</string>
+  <string name="force_update_body">Please update to the latest version to enjoy all the newest features!</string>
+  <string name="force_update_action">Update now</string>
+  <string name="search">Search</string>
+  <string name="booking_course_unbooked">Unbooked: %d</string>
+  <string name="filter_popular_group_name">Popular</string>
+  <string name="filter_clear_all">Clear all</string>
+  <string name="filter_top_bar">Filters</string>
+  <string name="filter_apply">Apply</string>
+  <string name="filter_native_option">Native speakers</string>
+  <string name="learning_ticket_entry_student_old">I want to find a language tutor</string>
+  <string name="learning_ticket_entry_teacher_old">I want to teach online and get students</string>
+  <string name="chat_message_file_expired">Expired</string>
+  <string name="chat_message_sending">Sending</string>
+  <string name="file_download_saved">Saved</string>
+  <string name="file_download_failed">Download failed, please try again.</string>
+  <string name="file_send_failed_retry">Some of the files cannot be sent, please try again.</string>
+  <string name="file_send_failed_oversize">File size exceeded. You can only send %d MB each time.</string>
+  <string name="file_downloading">Downloading...</string>
+  <string name="survey_entry_title_satisfaction">How satisfied are you with AmazingTalker\?</string>
+  <string name="teacher_wall_default_english">English</string>
+  <string name="continue_with_google">Continue with Google</string>
+  <string name="continue_with_facebook">Continue with Facebook</string>
+  <string name="sign_in_large_text">Welcome back!</string>
+  <string name="sign_up_large_text">Register to start taking classes!</string>
+  <string name="course_package_view_all">All</string>
+  <string name="sign_up_later">Sign Up Later</string>
+  <string name="sign_up_guest_temp_name">Please Enter Your Name</string>
+  <string name="system_notification_hint_text">Enable notifications so you won\'t miss messages or lessons. Turn on Now</string>
+  <string name="system_notification_hint_action">Turn on Now</string>
+</resources>
