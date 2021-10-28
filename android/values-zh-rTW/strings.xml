@@ -585,7 +585,7 @@
   <string name="teacher_profile_language_version_formatted">%s版</string>
   <string name="ai_dispatch_tooltip_title">系統推薦的老師私訊您囉!</string>
   <string name="ai_dispatch_tooltip_body">真人老師在線上，查看訊息與老師討論您的需求</string>
-  <string name="dispatch_complete_description">已為您尋找合適的教師\n稍後推薦教師將會主動私訊您\n有任何問題跟需求都能與教師討論X2</string>
+  <string name="dispatch_complete_description">已為您尋找合適的教師\n稍後推薦教師將會主動私訊您\n有任何問題跟需求都能與教師討論X3</string>
   <string name="student_list">學生列表</string>
   <string name="student_list_filter_all">全部學生</string>
   <string name="student_list_filter_private_booked">正式課已預約</string>
