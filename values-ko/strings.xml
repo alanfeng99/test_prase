@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string-array name="appointment_before_start_button">
+    <item>수업 곧 시작합니다</item>
+    <item>예약 취소</item>
+    <item>시간 변경</item>
+  </string-array>
+  <string-array name="appointment_completed_button_student">
+    <item>평가하기</item>
+    <item>문제 피드백</item>
+  </string-array>
+  <string-array name="appointment_completed_button_student_comment_student">
+    <item>예약 계속하기</item>
+    <item>이미 완료한 수업 횟수</item>
+  </string-array>
+  <string-array name="appointment_completed_button_teacher">
+    <item>완성하기</item>
+    <item>문제 피드백</item>
+  </string-array>
+  <string-array name="appointment_disputing_button_action_student">
+    <item>교실로 들어가기</item>
+    <item>해결 방식 동의하기</item>
+  </string-array>
+  <string-array name="appointment_disputing_button_action_teacher">
+    <item>교실로 들어가기</item>
+    <item>해결 방식 다시 선택하기</item>
+  </string-array>
+  <string-array name="appointment_disputing_button_reported_student">
+    <item>교실로 들어가기</item>
+    <item>문제 보고했습니다</item>
+  </string-array>
+  <string-array name="appointment_disputing_button_reported_teacher">
+    <item>교실로 들어가기</item>
+    <item>해결 방식 선택했습니다</item>
+  </string-array>
+  <string-array name="appointment_into_class_button">
+    <item>교실로 들어가기</item>
+    <item>문제 피드백</item>
+  </string-array>
+  <string-array name="appointment_waiting_accept_button_teacher">
+    <item>동의하기</item>
+    <item>거절하기</item>
+  </string-array>
+  <string-array name="leave_review_star_texts">
+    <item>불만족</item>
+    <item>개선이 필요함</item>
+    <item>그저 그렇다</item>
+    <item>매우 좋은 편이다</item>
+    <item>매우 좋다</item>
+  </string-array>
+  <string-array name="teacher_profile_faq_book">
+    <item>강의 구매 후 선생님의 강의 스케줄에 표시된 시간에 수업을 신청하세요.</item>
+    <item>『바로 수업 가능』이라고 표시되어 있다면, 즉시 수업을 예약할 수 있어요.</item>
+    <item>그렇지 않다면 24시간 이후의 수업부터 예약할 수 있어요.</item>
+  </string-array>
+  <string-array name="teacher_profile_faq_duration">
+    <item>맛보기 수업 시간은 약 25분입니다</item>
+    <item>정규 수업 시간은 약 50분입니다</item>
+    <item>정규 수업 5회 이상 구매 시 추가 할인이 있습니다. (선생님의 수강료에 따라 상이)</item>
+  </string-array>
+  <string-array name="teacher_profile_faq_instructions">
+    <item>수업 10분 전 사이트에 들어가, 『나의 강의실』내에서 수강할 수업을 찾은 뒤 『교실 들어가기』를 선택하면 ZOOM이 시작되고 수업을 시작할 수 있습니다</item>
+    <item>휴대폰, PC 모두 ZOOM을 이용해 수업을 들을 수 있습니다. (휴대폰에 미리 ZOOM 어플리케이션을 설치해 주세요)</item>
+  </string-array>
+  <string-array name="teacher_profile_faq_refund">
+    <item>수업 중 문제가 발생하면 『문제신고』를 클릭하세요. 선생님이 다시 예약을 하거나 AT코인으로 환불해드려요.</item>
+    <item>선생님이 12시간 내에 답장을 하지 않을 경우, 시스템에서 당신에게 자동으로 AT코인을 환불해드려요.</item>
+  </string-array>
+  <string name="common_button_auth_submit">제출하기</string>
+  <string name="common_button_submit">발송하기</string>
+  <string name="common_button_cancel">예약 취소</string>
+  <string name="common_button_accept">동의하기</string>
+  <string name="common_button_reject">거절하기</string>
+  <string name="common_no_data">현재 자료 없음</string>
+  <string name="common_none">없음</string>
+  <string name="common_trial_session">체험 수업</string>
+  <string name="common_private_session">정규 수업</string>
+  <string name="common_interview">면접 수업</string>
+  <string name="student">학생</string>
+  <string name="teacher">선생님</string>
+  <string name="share">공유하기</string>
+  <string name="anonymous">익명</string>
+  <string name="days">%d 일</string>
+  <string name="welcome_subtitle">친구 같은 외국어 선생님</string>
+  <string name="intro_hello_title">Hi</string>
+  <string name="intro_hello_subtitle">어메이징토커에서 수업을 하는 방법을 빠르게 알려드릴게요!</string>
+  <string name="intro_find_title">선생님 찾기</string>
+  <string name="intro_find_subtitle">그리고 선생님들께 수업 목표를 알려주세요.</string>
+  <string name="intro_book_title">수업 예약</string>
+  <string name="intro_book_subtitle">편하신 시간에 수업을 예약해주세요</string>
+  <string name="intro_lesson_title">화상 수업</string>
+  <string name="intro_lesson_subtitle">선생님과 일대일 온라인 수업을 시작해보세요</string>
+  <string name="intro_start_btn">시작하기</string>
+  <string name="intro_i_know">알겠습니다</string>
+  <string name="login_phone_login">휴대 전화 번호 등록</string>
+  <string name="login_email_login">Email 등록</string>
+  <string name="login_facebook_login">Facebook 로그인</string>
+  <string name="login_google_login">Google 로그인</string>
+  <string name="login_phone_sign_up">핸드폰 등록</string>
+  <string name="login_email_sign_up">이메일 등록</string>
+  <string name="login_facebook_sign_up">페이스북으로 가입</string>
+  <string name="login_google_sign_up">구글으로 가입</string>
+  <string name="login_show_more">더보기</string>
+  <string name="login_other_auth">혹은</string>
+  <string name="login_name_hint">이름</string>
+  <string name="login_email">이메일</string>
+  <string name="login_phone">전화 번호를 입력하세요</string>
+  <string name="login_password_hint">비밀번호 (8자 이상)</string>
+  <string name="login_password_confirmed_hint">비밀번호 확인하기</string>
+  <string name="login_forget">비밀번호 찾기</string>
+  <string name="login_has_not_registered_hint">아직 등록을 안 하셨나요\?</string>
+  <string name="login_has_not_registered_btn">등록하기</string>
+  <string name="login_already_registered_hint">이미 회원이신가요\?</string>
+  <string name="login_already_registered_btn">로그인</string>
+  <string name="login_terms_of_use">등록하기\'를 클릭하시면 저희의 %s에 동의하시게 됩니다.</string>
+  <string name="login_terms_of_use_click">약관 및 개인 정보 보호 정책</string>
+  <string name="login_action_login">로그인</string>
+  <string name="login_action_sign_up">등록하기</string>
+  <string name="login_title_email_login">로그인</string>
+  <string name="login_title_phone_login">휴대폰 로그인</string>
+  <string name="login_title_email_register">등록하기</string>
+  <string name="login_title_phone_register">휴대폰 등록</string>
+  <string name="login_fails">등록 실패, 이유: %s</string>
+  <string name="learning_ticket_entry_title">어메이징토커에 오신 것을 환영합니다!</string>
+  <string name="learning_ticket_entry_subtitle">본인에게 가장 적합한 선생님을 찾아보세요!</string>
+  <string name="learning_ticket_entry_student">선생님 찾기</string>
+  <string name="learning_ticket_entry_teacher">선생님 되기</string>
+  <string name="learning_ticket_btn_next">다음</string>
+  <string name="learning_ticket_btn_submit">제출하기</string>
+  <string name="learning_ticket_auxiliary_no">아니요</string>
+  <string name="learning_ticket_auxiliary_yes">네</string>
+  <string name="learning_ticket_no_data">현재 자료 없음</string>
+  <string name="learning_ticket_notification">마지막 단계입니다! 저희가 가장 적합한 선생님을 찾아드렸을 때 알림을 받으실 수 있도록 알림을 허용해주세요.</string>
+  <string name="learning_ticket_allow">허용하기</string>
+  <string name="learning_ticket_give_up">포기할래요</string>
+  <string name="verify_phone_title">인증 코드</string>
+  <string name="verify_phone_description">문자 메세지가 %s번호로 전송되었습니다. 인증번호 숫자 6자리를 입력해 주세요. </string>
+  <string name="verify_phone_count_down" formatted="false">남은 시간 %02d:%02d</string>
+  <string name="verify_phone_not_received">아직 받지 못하셨나요\?</string>
+  <string name="verify_phone_resend">다시 보내기</string>
+  <string name="forgot_password_send_email">비밀번호 재설정 이메일이 전송되었습니다. 이메일을 확인하세요.</string>
+  <string name="forgot_password_send_phone">비밀번호 재설정 메시지가 전송되었습니다. 메세지를 확인하세요.</string>
+  <string name="main_header_text">어떤 언어를 배우고 싶으신가요\?</string>
+  <string name="main_header_tutors">선생님 찾기</string>
+  <string name="main_bottom_navi_visit">검색</string>
+  <string name="main_bottom_navi_dispatch">배정</string>
+  <string name="main_bottom_navi_notify">알임</string>
+  <string name="main_bottom_navi_message">메세지</string>
+  <string name="main_bottom_navi_account">계정</string>
+  <string name="control_panel_title">예약하신 수업</string>
+  <string name="control_panel_empty_notice">예약하신 수업이 없습니다</string>
+  <string name="control_panel_booking">수업 예약</string>
+  <string name="control_panel_calendar">일정표</string>
+  <string name="control_panel_group_class">소규모 그룹 수업</string>
+  <string name="control_panel_need_confirm">아직 예약이 확정되지 않음</string>
+  <string name="control_panel_need_complete">아직 완료되지 않음</string>
+  <string name="control_panel_leave_review">수업 평가하기</string>
+  <string name="control_panel_in_progress">수업 시작, 교실에 입장</string>
+  <string name="control_panel_vip_interview">면접 체험 수업</string>
+  <string name="control_panel_interview_member">면접 상세 보기</string>
+  <string name="appointment_date_format_pattern">yyyy년 M월 d일  EEEE</string>
+  <string name="appointment_time_format_pattern">a hh:mm</string>
+  <string name="appointment_send_message">메세지 발송</string>
+  <string name="appointment_password">교실 암호: %s</string>
+  <string name="appointment_download">강의 파일 다운로드</string>
+  <string name="appointment_status">과정 상태</string>
+  <string name="appointment_feedback">평가 기록</string>
+  <string name="appointment_report_by_student">학생 피드백</string>
+  <string name="appointment_report_by_teacher">강사 피드백</string>
+  <string name="appointment_solution">해결 방법</string>
+  <string name="appointment_summary">이번 수업 요약</string>
+  <string name="appointment_homework">다음 수업 내용 알림</string>
+  <string name="appointment_student_feedback">학생 평가</string>
+  <string name="appointment_no_review">(평가 없음)</string>
+  <string name="appointment_contact_customer_service">누르고 고객센터에 연락하기</string>
+  <string name="appointment_get_free_lesson">%s 무료 강의 회득</string>
+  <string name="appointment_get_free_lesson_title">%s 선생님의 50분 정규 수업 1회 받기</string>
+  <string name="appointment_get_free_lesson_content" formatted="false">친구에게 %s 선생님의 25분 무료 체험 수업을 보내주세요. 친구가 5개 이상의 정규 수업을 구매한 후 첫 정규 수업을 마치면 %s 선생님의 50분 정규 수업을 무료로 받으실 수 있습니다. %s 수업을 듣고 싶은 친구에게 %s 선생님의 수업을 지금 바로 보내보세요!</string>
+  <string name="appointment_get_free_lesson_invite">지정한 이메일로 발송하기</string>
+  <string name="appointment_get_free_lesson_invite_hint">이메일 주소를 입력해 주세요</string>
+  <string name="appointment_get_free_lesson_send_invitation">요청 발송</string>
+  <string name="appointment_get_free_lesson_share_link">링크 공유</string>
+  <string name="appointment_get_free_lesson_copy_link">링크 복사하기</string>
+  <string name="appointment_get_free_lesson_invite_success">요청 발송 성공</string>
+  <string name="appointment_get_free_lesson_copied">복사됨</string>
+  <string name="appointment_student">학생</string>
+  <string name="appointment_teacher">선생님</string>
+  <string name="appointment_issue_was_absent">%s 사유없이 결석</string>
+  <string name="appointment_issue_related_technical_difficulties">%s 인터넷/기술적 문제 발생</string>
+  <string name="appointment_issue_felt_ill">%s 질병</string>
+  <string name="appointment_issue_took_a_personal_leave">%s 사적인 일</string>
+  <string name="appointment_issue_other">%s 기타</string>
+  <string name="appointment_action_reset_lesson_to_unscheduled">강의 재예약 수락</string>
+  <string name="appointment_action_give_the_student_a_100_percent_refund">전액 환불: 재예약 불가능</string>
+  <string name="appointment_action_give_the_student_a_50_percent_refund">반액 환불: 재예약 불가능</string>
+  <string name="appointment_action_mark_lesson_as_completed">환불하지 않기: 수강 완료로 표시</string>
+  <string name="appointment_cancel_appointment">예약 취소</string>
+  <string name="appointment_cancel_reason">취소 원인을 설명하시고 상대방이 예약 가능한 시간을 확인하세요.</string>
+  <string name="appointment_waiting_accept_description_interview">멘터의 면접 요청 답장을 기다리는 중입니다.</string>
+  <string name="appointment_waiting_accept_description_student">수업 시간 요청이 전송되었으며 선생님이 %s 전에 답장해 드릴 예정입니다. 제한 시간 내에 답장이 오지 않는다면 수강 요청이 폐지됩니다.</string>
+  <string name="appointment_waiting_accept_description_teacher">%s 전에 수업 요청에 답장해 주세요</string>
+  <string name="appointment_waiting_accept_button_student">예약 취소</string>
+  <string name="appointment_waiting_accept_status">확인을 기다리는 중입니다</string>
+  <string name="appointment_confirm_expired_description_student">이 수업의 수업 시간 요청 유효기간 지났습니다. 수업 할다량 다시 돌려드렸습니다. 일정표 페이지로 수업 시간을 재예약하세요.</string>
+  <string name="appointment_confirm_expired_description_teacher">이 수업의 수업 시간 요청 유호기간 지났습니다. 학생의 재예약을 확인 부탁드리며 다음 요청에 24시간 내 답장해주시길 바랍니다.</string>
+  <string name="appointment_confirm_expired_button">요청 만료됨</string>
+  <string name="appointment_confirm_expired_status">만료됨</string>
+  <string name="appointment_before_start_description">수업 취소하시려면 수업 시간 12시간 전에 취소해야 합니다. 12시간 안에 수업 시간 변경하시려면 미리 말씀하시고 수업 시간에 이 문제를 피드백하시면 됩니다. \'예약 취소\'는 수업 시작 후에 \'문제 피드백\'으로 바뀔 겁니다.</string>
+  <string name="appointment_before_start_description_zoom_intro">ZOOM 화상회의로 수업 진행될 겁니다. 수업 시간 10분 전에 \'곧 시작하기\'는 \'교실로 들어가기\'로 바뀔 겁니다. 수업 시간 전에 교실로 들어가면 ZOOM을 자동 설치와 실행이 됩니다. 컴퓨터, 테블릿이나 핸드폰으로 수업하기 가능합니다.</string>
+  <string name="appointment_before_start_description_student_group">소규모 그룹 수업은 취소나 보충 수업이 불가능합니다. 결석이 되면 수업 후 1일 안에 수업 명세 페이지에서 강의 녹화 파일을 다운로드하세요. 하루가 지나면 녹화 영상이 자동으로 삭제됩니다. 선생님이 상황에 따라 수업 시간을 조정할 권리를 보유합니다. 수업 시간에 대해 문의가 있으시면 직적 선생님에게 연락해 주시길 바랍니다.</string>
+  <string name="appointment_before_start_description_teacher_group">선생님께서 결석이 되면 반드시 12 시간 안에 수업 시간을 변경하시길 바랍니다. 시간 변경을 하시면 자동으로 수업 시간이 업데이트됩니다. 수업마다 시스템 녹화가 진행되며 학생이 결석인 경우에 1일 안에 수업 녹화 파일 다운로드를 했는지 확인 부탁드립니다.</string>
+  <string name="appointment_before_start_description_student_interview">면접 곧 시작됩니다. 선생님이 면접 후 24시간 안에 학생한테 그룹 가입 요청 보내줄지 결정해야 합니다.</string>
+  <string name="appointment_before_start_description_teacher_interview">면접 곧 시작됩니다. 24시간 안에 선생님께 그룹 가입 요청 보내드릴지 결정하셔야 합니다.</string>
+  <string name="appointment_before_start_description_student_vip">면접 시간을 변경하시려면: 
+수업 12 시간 전에 아래의 \'예약 취소\'
+를 클릭하시며 수업 12 시간 전에 선생님에게 출석 불가 메세지를 보내주세요. 수업 시작 시 \'면접 상황 피드백\'을 클릭하세요.</string>
+  <string name="appointment_before_start_status">받아야 할 수업 횟수</string>
+  <string name="appointment_cancel_description_by_student">학생이 이 수업을 취소했습니다</string>
+  <string name="appointment_cancel_description_by_teacher">선생님께서 이 수업을 취소했습니다</string>
+  <string name="appointment_cancel_button">예약 취소</string>
+  <string name="appointment_cancel_status">취소했음</string>
+  <string name="appointment_into_class_description">수업 5~10분 전에 오셔서 준비해주세요. 선생님이나 학생이 수업에 제 시간에 참석하지 않는 경우 채팅을 보내 온라인 상태인지 확인해주세요. 5-10분 이상 늦을 경우 \"문제 보고\"를 클릭해주시면 선생님께서 적절한 해결책을 제안해드릴 예정입니다.</string>
+  <string name="appointment_into_class_description_student_group">수업 5분전에 오셔서 준비해주세요. 선생님이 제 시간에 참석하시지 않을 경우 선생님께 메시지를 보내 새로운 업데이트가 있는지 확인해주세요. 선생님께서 수업을 진행할 수 없으신 경우 선생님께서 수업 일정을 다시 조정하실 수 있습니다. 수업에 참석할 수 없으실 경우, 수업 후 24시간 이내에 수업 녹화 영상을 다운로드 받아주세요.</string>
+  <string name="appointment_into_class_description_teacher_group">수업 5분전에 오셔서 준비해주세요. 학생이 지각하거나 참석하지 않는 경우, 학생이 수업 후 24시간 이내에 수업 녹화 영상을 다운로드 받을 수 있도록 전달 부탁드립니다.</string>
+  <string name="appointment_into_class_description_student_interview">면접이 시작됩니다. 면접이 종료되면 멘토가 24시간 내에 결정 후 초대하실 예정입니다.</string>
+  <string name="appointment_into_class_description_teacher_interview">24시간 이내에 그 선생님을 그룹 가입 요청을 보내줄지 결정하세요. (그 선생님의 개인 페이지로 들어가 가입 요청을 보낼 수 있습니다)</string>
+  <string name="appointment_into_class_description_student_vip">수업 시간이 되었습니다! 먼저 교실로 들어가 준비해주세요. 상대방이 보이지 않을 경우 채팅으로 상황을 확인해주세요.&lt;br&gt;수업 끝난 후 혹은 문제가 있을 시 아래 \'면접 상황 피드백\'을 클릭해서 문제를 작성해주세요.</string>
+  <string name="appointment_into_class_write_interview_report_button">면접 상황 피드백</string>
+  <string name="appointment_into_class_status">받아야 할 수업 횟수</string>
+  <string name="appointment_disputing_description_report_by_student_student">수업은 협상 단계인데 선생님꼐서 빨리 적절한 해결방법을 답장할 겁니다.</string>
+  <string name="appointment_disputing_description_report_by_student_teacher">수업은 협상 단계인데 선생님꼐서 얼른 적절한 해결방법을 답장하셔야 합니다.</string>
+  <string name="appointment_disputing_description_teacher_take_action_student">선생님이 해당 질문에 답장했습니다. 선생님의 해결 방식을 동의하지 않으시면 바로 여기를 클릭하셔서 고객센터에 연락해 주시길 바랍니다. 학생이 %s에 \'해결 방식을 동의하기\'를 클릭하지 않으셨다면 시스템이 자동으로 동의로 인정하며 해결됨으로 표기됩니다.</string>
+  <string name="appointment_disputing_description_teacher_take_action_teacher">선생님이 해당 질문에 답장했으며 학생의 확인를 기다리는 중입니다. 학생이 %s에 확인하지 않았다면 시스템이 자동으로 선생님의 해결 방식을 인정하며 해결됨으로 표기됩니다.</string>
+  <string name="appointment_disputing_status">검토 중</string>
+  <string name="appointment_dispute_resolved_button_rescheduled">수업 환불했습니다</string>
+  <string name="appointment_dispute_resolved_button_refund">환불했음</string>
+  <string name="appointment_dispute_resolved_status_rescheduled">재예약 가능</string>
+  <string name="appointment_dispute_resolved_status_refund">환불했음</string>
+  <string name="appointment_interview_description_student">면접관이 미완성을 보고했습니다. 다시 예약 요청 보내주세요.</string>
+  <string name="appointment_interview_description_teacher">면접관이 미완성을 보고했습니다. 다음 예약 요청을 기다리세요.</string>
+  <string name="appointment_completed_description_student">수업 끝난 후 선생님께 피드백하세요. 수업 중에 문제 생긴다면 직접 피드백하세요.</string>
+  <string name="appointment_completed_description_teacher">수업 끝난 후 아래 \'완료 확인\' 버튼을 누르세요. 수업 중에 문제 생긴다면 아래 \'문제 피드백\'을 클릭하세요.</string>
+  <string name="appointment_completed_description_student_comment_student">수업 끝난 후 선생님께 피드백하세요. 수업 중에 문제 생긴다면 여기를 클릭하셔서 직접 고객센터에 반응하셔도 됩니다.</string>
+  <string name="appointment_completed_description_student_comment_teacher">수업 끝난 후 아래 \'완료 확인\' 버튼을 누르세요. 수업 중에 문제 생긴다면 여기를 클릭하셔서 직접 고객센터에 반응하셔도 됩니다.</string>
+  <string name="appointment_completed_description_mentoring_interview_end_student">선생님 그룹으로 확인하세요.</string>
+  <string name="appointment_completed_description_mentoring_interview_end_teacher">선생님한테 그룹 가입 요청 보내시려면 24시간 이내 선생님의 개인 페이지로 요청하세요.</string>
+  <string name="appointment_completed_description_teacher_interview">수업 끝난 후 아래 \'완료 확인\' 버튼을 누르세요. 수업 중에 문제 생긴다면 여기를 클릭하셔서 직접 고객센터에 반응하셔도 됩니다.</string>
+  <string name="appointment_completed_button_student_comment_teacher">완성하기</string>
+  <string name="appointment_completed_button_teacher_comment_student">평가하기</string>
+  <string name="appointment_completed_button_teacher_comment_teacher">이미 완료한 수업 횟수</string>
+  <string name="appointment_completed_button_both_comment_student">예약 계속하기</string>
+  <string name="appointment_completed_button_both_comment_teacher">@string/appointment_completed_button_teacher_comment_teacher</string>
+  <string name="appointment_completed_button_reported_student">문제 피드백했음</string>
+  <string name="appointment_completed_button_reported_teacher">해결 방식 선택하기</string>
+  <string name="appointment_completed_button_action_student">해결 방식 동의하기</string>
+  <string name="appointment_completed_button_action_teacher">해결 방식 다시 선택하기</string>
+  <string name="appointment_completed_status_uncompleted">받아야 할 수업 횟수</string>
+  <string name="appointment_completed_status_completed">이미 완료한 수업 횟수</string>
+  <string name="appointment_completed_status_interview_accepted">수락됨</string>
+  <string name="appointment_completed_wait_until_vip_rate">면접관이 평가 작성한 후에 확인하세요</string>
+  <string name="appointment_completed_button_interview_agree">해결방법 동의하기</string>
+  <string name="appointment_can_be_rescheduled_reported">문제 피드백했음</string>
+  <string name="appointment_can_be_rescheduled_agreed">동의 확인했음</string>
+  <string name="appointment_interview_rating_how_about_class">선생님은 이번 수업에서 어땠나요\?</string>
+  <string name="dispute_optional_reason_hint">최소 5자이상 써주세요</string>
+  <string name="dispute_support_title">zoom 문제 발생 시 %s테스트 링크로 들어가세요.</string>
+  <string name="dispute_support_title_clickable">클릭하세요</string>
+  <string name="dispute_support_message">고객 지원에 스크린 캡처 또는 스크린 녹화 영상을 보내주시면 최대한 빠르게 문제 해결을 도와드리겠습니다.</string>
+  <string name="leave_review_satisfaction_title">수업 만족도를 선택해주세요</string>
+  <string name="leave_review_satisfaction_subtitle">선생님을 평가하시려면 별점을 클릭해주세요. 클릭하지 않으면 기본적으로 별 5개로 설정됩니다.</string>
+  <string name="leave_review_teaching_style_title">선생님의 수업 스타일에 적합한 태그를 선택해주세요 (선택사항)</string>
+  <string name="leave_review_teaching_style_subtitle">복수 선택 가능</string>
+  <string name="leave_review_teaching_feedback_title">선생님께 수업 피드백을 해주세요.</string>
+  <string name="leave_review_teaching_feedback_subtitle">선생님께서 학생의 학습 상황을 더 잘 이해하실 수 있도록 오늘의 수업에 대한 리뷰를 최소 1-2줄로 적어주세요!</string>
+  <string name="leave_review_teaching_feedback_anonymous">이 피드백은 선생님의 개인 페이지에 익명으로 표시됩니다.</string>
+  <string name="leave_review_studying_feedback_title">학생에 대한 피드백을 적어주세요</string>
+  <string name="leave_review_group_studying_feedback_title">%s께 수업 피드백 제공</string>
+  <string name="leave_review_next_session_title">학생들에게 숙제 및 예습 내용을 상기시켜주세요</string>
+  <string name="leave_review_studying_subtitle">해당 리뷰는 학생들에게 보여집니다.</string>
+  <string name="leave_review_hint">입력해주세요..</string>
+  <string name="leave_interview_review_recommend_hint">이 평가는 저희가 선생님의 수업 상태를 이해하는 데 도움이 될 수 있으며 선생님의 프로필에서 해당 평가를 확인하실 수 있습니다</string>
+  <string name="leave_interview_review_not_recommend_hint">이 평가는 저희가 선생님의 수업 상태를 이해하는 데 도움이 될 수 있습니다. 선생님께서는 해당 평가를 보실 수 없습니다.</string>
+  <string name="calendar_title">일정표</string>
+  <string name="calendar_no_lesson">수업 찾을 수 없음</string>
+  <string name="booking_course_more">더 보기</string>
+  <string name="booking_course_expired">만료 시간：%s</string>
+  <string name="booking_course_occupied">수업이 있습니다 %s</string>
+  <string name="booking_course_dialog_previous">전 단계</string>
+  <string name="booking_course_dialog_confirm">예약 확인</string>
+  <string name="booking_course_success">예약 완료</string>
+  <string name="booking_course_expired_text">이 수업 패키지는 기간이 만료되어 예약을 진행할 수 없습니다. 선생님에게 연락해 패키지 기간 연장을 요청하세요.</string>
+  <string name="booking_course_request_extend">연장 요청하기</string>
+  <string name="teacher_list_advance_search_specialty">학습 요구사항</string>
+  <string name="teacher_list_advance_search_auxiliary">수업 진행 언어</string>
+  <string name="teacher_list_advance_search_budget">예산 범위</string>
+  <string name="teacher_list_advance_search_country">선생님 국적</string>
+  <string name="teacher_list_budget_options_below">%s 이하</string>
+  <string name="teacher_list_budget_options_above">%s 이상</string>
+  <string name="teacher_list_budget_options_range">%1$s - %2$s</string>
+  <string name="teacher_list_sort">정렬</string>
+  <string name="teacher_list_reviews">・%s 개의 리뷰</string>
+  <string name="teacher_suggested_list_reviews">%s 개의 리뷰</string>
+  <string name="teacher_list_private_lesson_duration">%s / 50분</string>
+  <string name="teacher_list_filter_budget_below">%s 이하</string>
+  <string name="teacher_list_filter_budget_above">%s 이상</string>
+  <string name="teacher_list_filter_budget_range">%1$s - %2$s</string>
+  <string name="teacher_list_sort_current_sorting">정렬기준</string>
+  <string name="teacher_list_sort_instant_recommendation">추천순</string>
+  <string name="teacher_list_sort_outstanding_tutors_first">우수 강사 순</string>
+  <string name="teacher_list_sort_new_tutors_first">새로운 강사 순</string>
+  <string name="teacher_list_sort_low_lesson_price_first">낮은 수강료 순</string>
+  <string name="teacher_list_sort_more_lessons_completed_first">수업 완료 순</string>
+  <string name="teacher_list_sort_more_comments_first">리뷰 많은 순</string>
+  <string name="messenger_search_bar_hint">이름으로 찾기</string>
+  <string name="messenger_no_message">받은 메시지가 없습니다</string>
+  <string name="messenger_filter_role_title">선택</string>
+  <string name="messenger_filter_role_all">모두</string>
+  <string name="messenger_filter_role_teacher">나의 선생님</string>
+  <string name="messenger_filter_role_student">나의 학생</string>
+  <string name="messenger_filter_role_member">나의 팀원</string>
+  <string name="messenger_filter_option_private_lesson">정규 수업</string>
+  <string name="messenger_filter_option_trial_lesson">체험수업</string>
+  <string name="messenger_filter_option_recommend">추천 매칭</string>
+  <string name="messenger_filter_option_appointment_accepted">예약 성공</string>
+  <string name="messenger_filter_option_can_attend_story_contest">경연 참가 자격 획득</string>
+  <string name="messenger_filter_option_group_lesson">소규모 그룹 수업</string>
+  <string name="messenger_filter_option_private_member">팀원</string>
+  <string name="messenger_filter_option_trial_member">연락중인 새로운 선생님</string>
+  <string name="chat_input_hint">입력하세요...</string>
+  <string name="chat_input_hint_blocked">이 대화에 답장을 보낼 수 없습니다</string>
+  <string name="chat_no_message">메시지 없음</string>
+  <string name="chat_user_title_information">사용자 정보</string>
+  <string name="chat_user_title_teach">가르칠 수 있는 언어</string>
+  <string name="chat_user_title_learn">현재 배우고 있는 언어</string>
+  <string name="chat_user_title_scheduled">받아야 할 수업 횟수</string>
+  <string name="chat_user_title_completed">이미 완료한 수업 횟수</string>
+  <string name="chat_user_title_unscheduled">미예약</string>
+  <string name="chat_user_title_last_lesson">마지막 수업 날짜</string>
+  <string name="chat_user_title_demand">학습 요구사항</string>
+  <string name="chat_user_title_block_message">차단</string>
+  <string name="chat_user_view">조회</string>
+  <string name="learning_tickets_lang_ticket">%s 학습수요</string>
+  <string name="learning_tickets_budget">예산</string>
+  <string name="learning_tickets_age">연령</string>
+  <string name="learning_tickets_purpose">목표</string>
+  <string name="learning_tickets_level">수준</string>
+  <string name="learning_tickets_weakness">향상하고 싶은 부분</string>
+  <string name="learning_tickets_note">참고사항</string>
+  <string name="chat_message_trial_ask">
+처음으로 수업을 하시면 아래의 안내 글을 참고하시며 교실에 들어가는 방법을 알아보세요!
+https://amazingtalker.elevio.help/en/articles/276-how-do-i-start-a-lesson</string>
+  <string name="chat_message_student_recommend">이 선생님이 %s에 전문이기 때문에</string>
+  <string name="chat_message_button_open_time_slot">수업 일정 잡기 %s</string>
+  <string name="chat_message_button_open_book">예약하기 %s</string>
+  <string name="chat_message_button_purchase">수업 구매</string>
+  <string name="chat_message_button_courses">강의</string>
+  <string name="chat_message_button_discount">쿠폰</string>
+  <string name="chat_message_button_custom_messages">메시지 템플렛</string>
+  <string name="chat_message_next_lesson">다음 수업: %s</string>
+  <string name="chat_message_schedule_title">수업 시간 관련 요청 사항</string>
+  <string name="chat_message_schedule_select_course">수업 패키지 선택</string>
+  <string name="chat_message_schedule_select_hint">수업 패키지 선택</string>
+  <string name="chat_message_schedule_select_date_hint">날짜를 선택해 주세요</string>
+  <string name="chat_message_schedule_select_time_hint">시간을 선택해 주세요</string>
+  <string name="chat_message_schedule_teacher_timezone">선생님 현지 시간（GMT：%s:00）</string>
+  <string name="chat_message_schedule_student_timezone">학생 현지 시간（GMT：%s:00）</string>
+  <string name="chat_message_schedule_student_time_hint">수업 시작 시간을 선택해 주세요</string>
+  <string name="chat_message_courses_purchase">수업 구매</string>
+  <string name="chat_message_courses_expired">만료됨</string>
+  <string name="chat_message_courses_expired_date">만료 시간: %s</string>
+  <string name="chat_message_courses_remaining_time">남은 시간: %1$02d : %2$02d : %3$02d</string>
+  <string name="chat_message_courses_program">%1$s: %2$s회의 수업 x %3$s (%4$s분)</string>
+  <string name="chat_message_group_class_program">%1$s / %2$s회의 수업 %3$s분 수업</string>
+  <string name="chat_message_discount_time_left">남은 시간: %s</string>
+  <string name="chat_message_discount_min_value">최저 사용 가능 금액: %s</string>
+  <string name="chat_message_discount_used">사용됨</string>
+  <string name="chat_message_direct_booking_request_title">선생님이 수업 예약 시간 확인 메시지를 발송</string>
+  <string name="chat_message_direct_booking_request_timezone_display">현지 시간： %1$s %2$s</string>
+  <string name="chat_message_direct_booking_request_accepted">수락됨</string>
+  <string name="chat_message_direct_booking_request_rejected">거절됨</string>
+  <string name="chat_message_direct_booking_request_await">대기중</string>
+  <string name="chat_message_direct_booking_request_available">남은 시간: %1$02d : %2$02d : %3$02d</string>
+  <string name="chat_message_course_extension_title">수업 패키지 연장 요청</string>
+  <string name="chat_message_course_extension_remaining_count">남은 수업 횟수: %s회</string>
+  <string name="chat_message_course_extension_expired">만료 시간: %s</string>
+  <string name="chat_message_course_extension_extended">연장됨</string>
+  <string name="chat_message_course_extension_extend">연장 기간</string>
+  <string name="chat_message_extend_package_title">강의 패키지 수정</string>
+  <string name="chat_message_extend_package_type">강의 유형</string>
+  <string name="chat_message_extend_package_student">학생 이름</string>
+  <string name="chat_message_extend_package_lesson">수업 횟수</string>
+  <string name="chat_message_extend_package_expired_date">만료됨</string>
+  <string name="chat_message_extend_package_extend_to">연장 기간</string>
+  <string name="chat_message_extend_package_note">*선생님은 수업을 모두 완료해야만 수업 비용 전액을 받을 수 있습니다</string>
+  <string name="chat_message_extend_package_update">수정하기</string>
+  <string name="chat_message_popup_lessons">%s 회</string>
+  <string name="chat_message_popup_minutes">%s 분</string>
+  <string name="chat_message_popup_discount_title">쿠폰 발송</string>
+  <string name="chat_message_popup_discount_10usd_by_self_hand_title">%s에게 10달러 쿠폰을 제공하세요</string>
+  <string name="chat_message_popup_discount_10usd_by_self_hand_desc">최저 사용 금액 제한 없음. 쿠폰 유효기간 1일</string>
+  <string name="chat_message_popup_discount_10usd_with_limit_title">%s에게 10달러 쿠폰을 제공하세요</string>
+  <string name="chat_message_popup_discount_10usd_with_limit_desc">최저 사용 금액 미화 100달러. 쿠폰 유효기간 1일</string>
+  <string name="chat_message_popup_discount_5usd_with_limit_title">%s에게 5달러 쿠폰을 제공하세요</string>
+  <string name="chat_message_popup_discount_5usd_with_limit_desc">최저 사용 금액 미화 50달러. 쿠폰 유효기간 1일</string>
+  <string name="chat_message_popup_discount_sent_successfully">%s에게 쿠폰을 성공적으로 발송했습니다</string>
+  <string name="chat_message_popup_discount_failed_to_send">쿠폰 발송 실패했습니다</string>
+  <string name="chat_message_popup_discount_redeem">바로 사용하기</string>
+  <string name="chat_message_popup_discount_expired">만료됨</string>
+  <string name="chat_message_popup_discount_used">사용됨</string>
+  <string name="chat_message_popup_courses_title">수업을 선택하세요</string>
+  <string name="chat_message_popup_courses_sent_successfully">성공적으로 발송했습니다</string>
+  <string name="chat_message_popup_courses_failed_to_send">발송 실패</string>
+  <string name="chat_message_popup_sample_title">메시지 템플렛</string>
+  <string name="notify_no_notice">알림이 없습니다</string>
+  <string name="notify_request_no_request">수업 문제 요청이 없습니다</string>
+  <string name="notify_request_title">수업 시간 관련 요청 사항</string>
+  <string name="notify_request_initialization">요청중</string>
+  <string name="notify_request_accepted">수락됨</string>
+  <string name="notify_request_expired">만료됨</string>
+  <string name="notify_request_expired_to_teacher">기한이 지났습니다, 이 기록은 귀하의 선생님 랭킹에 영향을 줍니다.</string>
+  <string name="notify_request_rejected">거절됨</string>
+  <string name="notify_request_rejected_to_teacher">거절했습니다,이 기록은 귀하의 선생님 랭킹에 영향을 줍니다.</string>
+  <string name="notify_dispute_title">수업 문제</string>
+  <string name="notify_dispute_check">찾아보기</string>
+  <string name="settings_remain_course_number">수업 횟수</string>
+  <string name="settings_at_coins">AT코인</string>
+  <string name="settings_show_collection">선생님 저장</string>
+  <string name="settings_coupons">쿠폰</string>
+  <string name="settings_referral">지정한 이메일로 발송하기</string>
+  <string name="settings_account_setting">계정 설정</string>
+  <string name="settings_teacher_active">학생 모집</string>
+  <string name="settings_change_currency">화폐 변경하기</string>
+  <string name="settings_log_out">로그아웃</string>
+  <string name="settings_current_month_income">이번 달 수입 %s</string>
+  <string name="settings_upcoming_session_count">곧 시작될 수업 횟수: %d</string>
+  <string name="settings_completed_session_count">곧 완성될 수업 횟수: %d</string>
+  <string name="settings_unscheduled_session_count">학생 미예약 수업 횟수: %d</string>
+  <string name="settings_recruitment_settings">학생 모집 설정</string>
+  <string name="settings_manually_confirm_requests">수동으로 예약 확인하기</string>
+  <string name="settings_instant_tutoring">바로 수업하기 가능</string>
+  <string name="settings_recruit_students">새로운 학생 모집하기</string>
+  <string name="settings_recommendation_system">선생님 추천도 스마트하게</string>
+  <string name="settings_search_currency">검색할 화폐를 입력하세요</string>
+  <string name="settings_logout_confirmation">로그아웃 하시겠습니까\?</string>
+  <string name="notification_show_label">표시</string>
+  <string name="notification_close_label">가이드 끄기</string>
+  <string name="notification_reply_label">댓글</string>
+  <string name="notification_reply_hint">답장을 입력하세요</string>
+  <string name="notification_request">알림을 허용하지 않으면 수업과 메시지를 놓치실 수 있습니다. \'설정\' → \'알림\' → \'알림 허용\'을 클릭해주세요.</string>
+  <string name="notification_goto_settings">설정</string>
+  <string name="inner_notification_new_recommend_student_title">이곳을 클릭하셔서 새로운 학생들과 연락해보세요</string>
+  <string name="inner_notification_new_recommend_student_message">시스템은 이미 당신과 새로 온 학생을 연결해 줬습니다, 빨리 연락하세요！</string>
+  <string name="inner_notification_cart_notice_message">학생이 선생님을 장바구니에 담았습니다</string>
+  <string name="inner_notification_refund_title">수업 빼기 확인</string>
+  <string name="inner_notification_refund_message">수업 명세에서 환불 확인하세요</string>
+  <string name="dispatch_title_learning_ticket">학생 배정 %s</string>
+  <string name="dispatch_title_training_ticket">선생님 배정 %s</string>
+  <string name="dispatch_talk_to_students">학생에게 인사를 건네, 관심을 보여 주세요!</string>
+  <string name="dispatch_skip">넘어가기</string>
+  <string name="dispatch_character_left">%s 글자 남았습니다.</string>
+  <string name="dispatch_save_template">자주 사용하는 답장 내용으로 저장하기</string>
+  <string name="teacher_profile_sessions_completed">%1$d 회 %2$s 수업 완성</string>
+  <string name="teacher_profile_realtime">바로 수업하기 가능</string>
+  <string name="teacher_profile_can_speak">구사 가능한 언어</string>
+  <string name="teacher_profile_self_introduction">강의 소개</string>
+  <string name="teacher_profile_expand_self_introduction">자기소개 내용 모두 보기</string>
+  <string name="teacher_profile_group_lessons">소규모 그룹 수업</string>
+  <string name="teacher_profile_group_lessons_discount">그룹 수업 신청 시 선착순 40% 할인!</string>
+  <string name="teacher_profile_expand_group_lessons">모든 단체반 수업 보기</string>
+  <string name="teacher_profile_video_intro_title">영상소개</string>
+  <string name="teacher_profile_video_one_to_one">1대1수업영상</string>
+  <string name="teacher_profile_video_other">임의 보너스 영상</string>
+  <string name="teacher_profile_sweet_hint">5회 이상 시 추가 혜택이 있습니다. 우측 하단에서 가격을 확인하시거나 장바구니에서 선택하세요!</string>
+  <string name="teacher_profile_available_times">수강시간</string>
+  <string name="teacher_profile_view_full_schedule">전체 시간 표시</string>
+  <string name="teacher_profile_ratings_title">%1$d 개의 %2$s 수업 평가</string>
+  <string name="teacher_profile_more_comments">%d 개의 평가 모두 보기</string>
+  <string name="teacher_profile_purchase">강의구매</string>
+  <string name="teacher_profile_package_label">%d회 50분 수업</string>
+  <string name="teacher_profile_resume">이력서</string>
+  <string name="teacher_profile_experiences">경력</string>
+  <string name="teacher_profile_educations">학력</string>
+  <string name="teacher_profile_certificates">자격증</string>
+  <string name="teacher_profile_certification">증명서를 업로드했습니다</string>
+  <string name="teacher_profile_faq">자주 묻는 질문</string>
+  <string name="teacher_profile_faq_book_title">예약 방법</string>
+  <string name="teacher_profile_faq_duration_title">비용설명</string>
+  <string name="teacher_profile_faq_instructions_title">수강방법</string>
+  <string name="teacher_profile_faq_refund_title">환불 참고 사항</string>
+  <string name="teacher_profile_badge_top_for_student_title">현재 상위 %s의 우수 강사  </string>
+  <string name="teacher_profile_badge_top_for_student_desc">AmazingTalker의 수많은 학생들이 추천!</string>
+  <string name="teacher_profile_badge_top_for_teacher_title">현재 상위 %s의 고수입 강사</string>
+  <string name="teacher_profile_badge_top_for_teacher_desc">AmazingTalker에서 월수입 %s 달러 이상의 선생님.(선생님에게만 표시됨)</string>
+  <string name="teacher_profile_badge_hot_title">현재 인기 선생님</string>
+  <string name="teacher_profile_badge_hot_desc">최근 많은 학생들이 수업을 구매한 선생님!</string>
+  <string name="teacher_profile_badge_new_title">현재 새로운 인기 선생님</string>
+  <string name="teacher_profile_badge_new_desc">최근 많은 학생들이 수업을 구매한 새로운 선생님!</string>
+  <string name="teacher_profile_badge_ghost_title">신출귀몰 유령 선생님</string>
+  <string name="teacher_profile_badge_ghost_desc">최근 1달 동안 학생의 수업 예약을 취소하거나 미출석 비율이 15% 이상인 선생님.</string>
+  <string name="teacher_profile_private_lesson">50분</string>
+  <string name="teacher_profile_trial_lesson">25분</string>
+  <string name="teacher_profile_booking_private">정규 수업 예약</string>
+  <string name="teacher_profile_booking_trial">맛보기 수업</string>
+  <string name="teacher_profile_contact_button">선생님에게 연락하기</string>
+  <string name="teacher_profile_ask_learning_language_title">%1$s 선생님은 %2$d 가지의 언어를 가르치세요! 어떤 언어를 알아보고 싶으신가요\?</string>
+  <string name="teacher_profile_group_completed_lessons">완료된 그룹 수업：%d회</string>
+  <string name="teacher_profile_group_taught_students">그룹 수업 학생수：%d명</string>
+  <string name="teacher_profile_group_date_label">%1$s부터 %2$s까지</string>
+  <string name="teacher_profile_group_registration_status">신청 인원 ( %1$d / %2$d )</string>
+  <string name="teacher_profile_group_class_details">%1$d 회 %2$d 분 수업</string>
+  <string name="teacher_profile_group_early_bird_count_down">얼리버드 카운트다운 %1$s %2$02d : %3$02d : %4$02d</string>
+  <string name="teacher_profile_group_late_bird_count_down">레이트버드 카운트다운 %1$s %2$02d : %3$02d : %4$02d</string>
+  <string name="teacher_ratings_title">%1$s평가 %2$d</string>
+  <string name="teacher_ratings_more_and_total">더 보기 (%d則)</string>
+  <string name="teacher_ratings_more">더 보기</string>
+  <string name="teacher_suggested">선생님 추천</string>
+  <string name="common_see_all">모두 보기</string>
+  <string name="update_body_display">해당 버전은 구버전이니 업데이트 해주시길 바랍니다.</string>
+  <string name="teacher_dispatch_input_placeholder">선생님께 인사하신 후 팀에 초대해보세요!</string>
+  <string name="common_blank_content">(공백)</string>
+  <string name="teacher_dispatch_template">선생님 매칭 답변 템플릿</string>
+  <string name="common_save_failure">저장 실패</string>
+  <string name="common_save_success">저장 성공</string>
+  <string name="language_validating">텍스트 언어 확인</string>
+  <string name="service_template_formatted">%s 수업 템플릿</string>
+  <string name="input_minimum_restriction_formatted">%d자 남음</string>
+  <string name="input_over_maximum_content">글자가 너무 많습니다.</string>
+  <string name="language_restriction_formatted">%s만 입력하실 수 있습니다.</string>
+  <string name="language_save_formatted">템플릿으로 저장</string>
+  <string name="language_apply_formatted">%s 템플릿 적용됨</string>
+  <string name="template_replace_dialog_title">현재 메세지를 덮어쓰시겠습니까\?</string>
+  <string name="template_replace_dialog_body">현재 메세지가 템플릿과 다릅니다. 이 템플릿을 적용하면 템플릿이 현재 메세지를 덮어씁니다.</string>
+  <string name="template_edit_title">매칭 템플릿 관리</string>
+  <string name="language_response_formatted">%s 답장</string>
+  <string name="entrance_from_dispatch_footer">계정의 \'매칭 템플릿 관리\'에서 언제든지 편집할 수 있습니다.</string>
+  <string name="template_language_restrict_warning">학생이 기대하는 언어로 답변해주세요</string>
+  <string name="dispatch_training_ticket">매칭</string>
+  <string name="template_paste">덮어쓰기</string>
+  <string name="inner_notification_new_recommend_teacher_title">이곳을 클릭하셔서 선생님과 연락해보세요</string>
+  <string name="inner_notification_new_recommend_teacher_message">선생님과 매칭되셨습니다. 최대한 빨리 선생님께 연락해보세요!</string>
+  <string name="common_edit">편집하기</string>
+  <string name="input_reply_placeholder_formatted">%s 템플릿으로 매칭 답변해야 합니다</string>
+  <string name="inject_user_name_button">이름 표시하기</string>
+  <string name="search_input_placeholder">언어 검색</string>
+  <string name="search_result_header">추천 검색결과</string>
+  <string name="search_empty_content">관련 검색 결과가 없습니다.</string>
+  <string name="search_title">어떤 언어를 배우고 싶으신가요\?</string>
+  <string name="search_input_placeholder_k12">언어 혹은 주제를 검색해주세요</string>
+  <string name="search_title_k12">어떤 언어, 혹은 주제를 배우고 싶으신가요\?</string>
+  <string name="customer_service">고객센터 연락하기</string>
+  <string name="appointment_previous_feedback">지난 수업의 피드백</string>
+  <string name="appointment_feedback_view_all">모든 피드백</string>
+  <string name="appointment_index_formatted">%s 번째 수업</string>
+  <string name="inner_notification_dispatch_taken_body">죄송합니다,이미 다른 선생님께서 학생분과 연락했습니다, 다음번에 조금 더 빨리 오셔서 학생분과 연락해보세요！😃</string>
+  <string name="inner_notification_dispatch_taken_title">다른 선생님께서 이미 해당 학생에게 연락했습니다.</string>
+  <string name="setting_template_message">메세지 템플릿 관리</string>
+  <string name="common_create">추가</string>
+  <string name="message_template_common">자주 사용하는 템플릿</string>
+  <string name="message_template_empty_content">템플릿이 없습니다</string>
+  <string name="message_template_empty_search">결과 없음</string>
+  <string name="message_template_all">모든 템플릿</string>
+  <string name="message_template_add_description">템플릿 추가</string>
+  <string name="message_template_edit_description">템플릿 수정</string>
+  <string name="message_template_edit_title_hint">제목 (필수)</string>
+  <string name="message_template_edit_body_hint">메세지 (최소 10글자)</string>
+  <string name="message_template_edit_title_restrict">제목은 비워둘 수 없습니다</string>
+  <string name="message_template_edit_body_restrict">메세지는 %d자 이상이어야 합니다</string>
+  <string name="common_save">저장</string>
+  <string name="message_template_search">템플릿 검색</string>
+  <string name="payment_failure">결제 가 실 패 했 습 니 다. 문의하거나 다른 결제 방법을 사용하십시오.</string>
+  <string name="banner_validate_title">아직 인증되지 않음</string>
+  <string name="banner_validate_body">AT코인은 실명제에 의한 본인인증을 통해서만 인출하실 수 있으며 동시에 자금 세탁 방지 규정을 따릅니다.</string>
+  <string name="banner_validate_action">인증</string>
+  <string name="banner_re_validate_title">재인증 필요</string>
+  <string name="banner_re_validate_body">본인인증에 실패하셨습니다. 다시 시도하셔서 AT코인을 인출해주시길 바랍니다.</string>
+  <string name="banner_re_validate_action">재인증</string>
+  <string name="validate_teacher">실명 인증</string>
+  <string name="validate_country_title">국적 선택</string>
+  <string name="validate_search_country">국가 검색</string>
+  <string name="validate_search_language">모국어 검색</string>
+  <string name="validate_language_title">모국어 선택</string>
+  <string name="validate_scan_type_title">본인 인증을 할 수 있는 신분증을 선택해주세요</string>
+  <string name="validate_scan_passport_or_not_title">여권을 가지고 있으신가요\?</string>
+  <string name="validate_scan_passport_has_passport">네, 있습니다</string>
+  <string name="validate_scan_passport_no_passport">아니요, 없습니다</string>
+  <string name="validate_scan_tw_id">대만 신분증</string>
+  <string name="validate_scan_tw_passport">대만 여권</string>
+  <string name="validate_scan_tw_drivers_license">대만 운전 면허증</string>
+  <string name="validate_scan_next">다음</string>
+  <string name="validate_scan_next_face_scan">다음 단계: 얼굴 스캔</string>
+  <string name="validate_scan_complete">가이드 끄기</string>
+  <string name="validate_start_scan_title">신분증 인증을 준비해주세요</string>
+  <string name="validate_start_scan_body">자금 세탁을 방지하기 위해 본인 인증을 해주시길 바랍니다.
+ ‧휴대폰 카메라를 허용해주세요
+ ‧여권 혹은 신분증을 스캔할 수 있도록 준비해주세요
+ ‧얼굴을 스캔할 수 있도록 준비해주세요</string>
+  <string name="validate_confirn_scan_content_title">문서 정보 확인</string>
+  <string name="validate_confirn_scan_content_single_field_body">실명은 아이디와 일치해야 하며, 일치하지 않을 경우 다시 입력해주세요.</string>
+  <string name="validate_confirn_scan_content_passport_field_body">실명은 여권 내 이름과 일치해야 하며, 일치하지 않을 경우 다시 입력하십시오.</string>
+  <string name="validate_confirn_scan_single_real_name">실명</string>
+  <string name="validate_confirn_scan_multiple_real_name">실명: 성</string>
+  <string name="validate_confirn_scan_multiple_given_name">실명: 이름 또는 중간 이름</string>
+  <string name="validate_country">국적</string>
+  <string name="validate_scan_complete_title">본인 인증 정보가 제출되었습니다</string>
+  <string name="validate_scan_complete_body">본인 인증이 완료되면 알림을 보내드릴 예정이며, 그 후에는 AT코인을 계좌로 인출하실 수 있습니다.</string>
+  <string name="validate_in_process">신분 증명 검토중</string>
+  <string name="permission_denied_feature_unavailable">본인의 휴대폰에서 AmazingTalker 앱의 접근 권한을 거부하셨기 때문에 일부 기능이 제한될 수 있습니다. 설정에 들어가셔서 앱의 권한을 허용해주세요.</string>
+  <string name="validate_id_scan_failure_message">신분증 스캔 실패, 다시 스캔해주세요.</string>
+  <string name="formatted_timezone_display" formatted="false">*시간 표시 %s(%s)</string>
+  <string name="learning_ticket_budget_options_below">%s 이상</string>
+  <string name="learning_ticket_budget_options_above">%s 이하</string>
+  <string name="learning_ticket_budget_options_range">%1$s - %2$s</string>
+  <string name="appointment_cancel_reason_title">취소 원인</string>
+  <string name="timezone_selection_title">시간대 변경 감지됨</string>
+  <string name="timezone_selection_primary_body">계정 시간대를 업데이트하시겠습니까\?
+업데이트 하실 경우 수업 알림 시간과 다른 사람들이 보는 시간대가 모두 변경됩니다.
+</string>
+  <string name="timezone_selection_secondary_body">현재 위치 또는 주변 위치의 시간대를 선택합니다.</string>
+  <string name="timezone_selection_pimary_action">수업 갱신</string>
+  <string name="timezone_selection_secondary_action">자동 동기화 안 함</string>
+  <string name="timezone_reject_title">계정상의 시간대를 동기화하지 않으시겠습니까\?</string>
+  <string name="timezone_reject_primary_body">시간대가 자동으로 동기화되지 않도록 선택하실 경우 수업 일정은 자동으로 업데이트 되는 반면 잘못된 시간에 수업 알림을 받으실 수 있습니다.</string>
+  <string name="timezone_reject_secondary_body">정확한 시간에 수업 알림을 받으실 수 있도록 시간대가 자동으로 동기화될 수 있도록 설정하는 것을 권장드립니다.</string>
+  <string name="timezone_reject_pimary_action">이전 단계로 돌아가기</string>
+  <string name="timezone_reject_secondary_action">동기화 중지 확인</string>
+  <string name="timezone_auto_update">시간대 자동 동기화</string>
+  <string name="timezone_auto_update_confirm">시간대 업데이트 확인됨</string>
+  <string name="timezone_auto_update_reject">시간대 업데이트 취소</string>
+  <string name="timezone_cancel_warning">참고: 자동 동기화를 선택하지 않은 경우에도 수업 일정은 자동으로 새 표준 시간대와 동기화되어 수업이 약속된 시간에 제대로 진행될 수 있도록 합니다.</string>
+  <string name="course_purchase_info_title">수업 100% 보장</string>
+  <string name="course_purchase_info_body">수업에 불만족 하셨나요\? 수업에 참여하지 않으신 경우 다른 선생님으로 바로 교환하실 수 있습니다.</string>
+  <string name="chatroom_course_create_customized_course_button">새로운 플랜 추가</string>
+  <string name="create_customized_course_page_title">맞춤형 가격 수정</string>
+  <string name="create_customized_course_course_name_title">수업명</string>
+  <string name="create_customized_course_course_name_hint">ex. 영작문 수업</string>
+  <string name="create_customized_course_subject_title">언어</string>
+  <string name="create_customized_course_course_count_title">수업 횟수</string>
+  <string name="create_customized_course_course_price_title">단가</string>
+  <string name="create_customized_course_course_duration_title">수업 시수</string>
+  <string name="create_customized_course_course_duration_item_formatted">%s분</string>
+  <string name="create_customized_course_course_spinner_placeholder">선생님 한 명을 선택해 스토리를 작성하세요</string>
+  <string name="chatroom_teacher_info_hint">선생님 페이지를 클릭하면 더 자세히 알아보실 수 있어요</string>
+  <string name="contact_teacher_intro_title">먼저 몇 가지 질문에 답하신 후 
+본인의 수준과 수업 조건을 알려주세요.</string>
+  <string name="chat_user_title_course_package_list">수업 패키지 목록</string>
+  <string name="course_package_subtitle_formatted" formatted="false">완성됨：%d/%d</string>
+  <string name="course_package_state_active">진행 중</string>
+  <string name="course_package_state_refund">중지됨</string>
+  <string name="course_package_state_completed">이미 완료한 수업 횟수</string>
+  <string name="course_package_state_expired">만료됨</string>
+  <string name="course_package_detail_appointment_not_yet_scheduled">아직 예약되지 않음</string>
+  <string name="course_package_detail_appointment_info_formatted" formatted="false">%d 번째 수업：%s</string>
+  <string name="course_package_detail_state_completed_formatted">완성됨 (%d)</string>
+  <string name="course_package_detail_state_incompleted_formatted">미완성 (%d)</string>
+  <string name="course_package_detail_state_refund_formatted">환불됨 (%d)</string>
+  <string name="teacher_common_functions_title">선생님 전용 메뉴</string>
+  <string name="control_panel_view_teacher_self_profile">더 알아보기</string>
+  <string name="teacher_self_profile_selection_title">프로필 버전 선택</string>
+  <string name="teacher_profile_subject_title_formatted">%s 과목 선생님 프로필</string>
+  <string name="teacher_profile_language_version_formatted">%s 버전</string>
+  <string name="ai_dispatch_tooltip_title">추천 선생님께서 쪽지를 보내셨어요!</string>
+  <string name="ai_dispatch_tooltip_body">선생님은 현재 온라인 상태입니다. 메세지를 확인하시고 수업 조건에 대해 논의해보세요.</string>
+  <string name="dispatch_complete_description">학생분께 적합한 선생님을 찾았습니다.
+추천된 선생님께서 학생분께 채팅을 보낼 예정입니다..
+채팅을 통해 수업과 관련하여 자유롭게 논의하실 수 있습니다.</string>
+  <string name="student_list">학생 리스트</string>
+  <string name="student_list_filter_all">전체 학생</string>
+  <string name="student_list_filter_private_booked">정규 수업이 예약되었음</string>
+  <string name="student_list_filter_private_not_booked">정규 수업이 예약되지 않음</string>
+  <string name="student_list_filter_no_repurchase_after_private">정규 수업이 갱신되지 않음</string>
+  <string name="student_list_filter_trial_booked">체험 수업이 예약되었음</string>
+  <string name="student_list_filter_trial_not_booked">체험 수업이 예약되지 않음</string>
+  <string name="student_list_filter_no_purchase_after_trial">체험 수업이 갱신되지 않음</string>
+  <string name="sdudent_state_completed_formatted">완성됨 %d</string>
+  <string name="sdudent_state_reserved_formatted">예약됨 %d</string>
+  <string name="sdudent_state_non_reserved_formatted">미예약 %d</string>
+  <string name="no_data">현재 자료 없음</string>
+  <string name="suggest_update_entrance">최신 버전 앱 다운로드</string>
+  <string name="force_update_title">앱 업데이트가 가능합니다.</string>
+  <string name="force_update_body">최신 버전으로 업데이트 하셔서 새로운 기능들을 즐겨보세요!</string>
+  <string name="force_update_action">지금 업데이트</string>
+  <string name="search">검색중</string>
+  <string name="booking_course_unbooked">미예약：%d</string>
+  <string name="filter_popular_group_name">인기</string>
+  <string name="filter_clear_all">모두 지우기</string>
+  <string name="filter_top_bar">필터</string>
+  <string name="filter_apply">적용하기</string>
+  <string name="filter_native_option">원어민</string>
+  <string name="learning_ticket_entry_student_old"></string>
+  <string name="learning_ticket_entry_teacher_old"></string>
+  <string name="chat_message_file_expired">만료됨</string>
+  <string name="chat_message_sending">업로드 중...</string>
+  <string name="file_download_saved">저장됨</string>
+  <string name="file_download_failed">다운로드 실패, 다시 시도해주세요</string>
+  <string name="file_send_failed_retry">일부 파일이 전송되지 않았습니다. 다시 시도해주세요</string>
+  <string name="file_send_failed_oversize">파일 용량 초과. 한번에 %dMB까지만 보내실 수 있습니다</string>
+  <string name="file_downloading">다운로드 중...</string>
+  <string name="survey_entry_title_satisfaction">어메이징토커에 얼마나 만족하시나요\?</string>
+  <string name="teacher_wall_default_english">영어</string>
+  <string name="continue_with_google">구글로 계속하기</string>
+  <string name="continue_with_facebook">페이스북으로 계속하기</string>
+  <string name="sign_in_large_text">돌아오신 것을 환영합니다!</string>
+  <string name="sign_up_large_text">지금 바로 가입하셔서 수업을 시작해보세요</string>
+  <string name="course_package_view_all">모두</string>
+  <string name="sign_up_later">나중에 가입하기</string>
+  <string name="sign_up_guest_temp_name">성함을 적으시고 바로 시작해보세요!</string>
+  <string name="system_notification_hint_text">메세지나 수업을 놓치지 않도록 알림을 켜주세요. 지금 바로 알림 켜기</string>
+  <string name="system_notification_hint_action">지금 바로 알림 켜기</string>
+</resources>
