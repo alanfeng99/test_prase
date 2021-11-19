@@ -1,4 +1,4 @@
-NOW="$(date +"%Y-%m-%d %H-%M")"
+NOW="$(date +'%Y-%m-%d %H-%M')"
 API_TOKEN="e658433f29d39ae731b7f51a23f1a20425e7a039"
 PLATFORM="ios_sdk"
 DESCRIPTION="auto-build"
