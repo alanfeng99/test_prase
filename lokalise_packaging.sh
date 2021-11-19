@@ -5,5 +5,5 @@ curl --location --request POST 'https://api.lokalise.com/api2/projects/392380656
 --header 'Content-Type: application/json' \
 --data-raw '{
     "format": "ios_sdk",
-    "bundle_description": '$NOW'
+    "bundle_description": "'$NOW'"
 }'
